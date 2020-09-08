@@ -47,7 +47,19 @@
 
   <img align="left" alt="Seluj78's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seluj78&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 [website]: https://seluj78.com
 [twitter]: https://twitter.com/seluj78
 [instagram]: https://instagram.com/jules_lasne
 [linkedin]: https://www.linkedin.com/in/jules-lasne/
+
+Original idea from https://github.com/codeSTACKr
