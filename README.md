@@ -12,7 +12,7 @@
 - ⚡ Fun fact: My dream is to organize a music festival
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/user/21l72khltbnqrea4ho4uyddbi)
+[<img src="https://spotify-now-playing.seluj78.vercel.app/api/spotify" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/user/21l72khltbnqrea4ho4uyddbi)
 
 ### Connect with me:
 
