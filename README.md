@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1414](https://github.com//python/python-docs-fr/pull/1414) in [python/python-docs-fr](https://github.com//python/python-docs-fr)
-2. ❗️ Closed issue [#3](https://github.com//Seluj78/Seluj78/issues/3) in [Seluj78/Seluj78](https://github.com//Seluj78/Seluj78)
-3. 💪 Opened PR [#1414](https://github.com//python/python-docs-fr/pull/1414) in [python/python-docs-fr](https://github.com//python/python-docs-fr)
-4. 🎉 Merged PR [#10](https://github.com//Seluj78/poutils/pull/10) in [Seluj78/poutils](https://github.com//Seluj78/poutils)
-5. 🎉 Merged PR [#67](https://github.com//Seluj78/Potodo/pull/67) in [Seluj78/Potodo](https://github.com//Seluj78/Potodo)
+1. 💪 Opened PR [#68](https://github.com//Seluj78/Potodo/pull/68) in [Seluj78/Potodo](https://github.com//Seluj78/Potodo)
+2. 🎉 Merged PR [#1414](https://github.com//python/python-docs-fr/pull/1414) in [python/python-docs-fr](https://github.com//python/python-docs-fr)
+3. ❗️ Closed issue [#3](https://github.com//Seluj78/Seluj78/issues/3) in [Seluj78/Seluj78](https://github.com//Seluj78/Seluj78)
+4. 💪 Opened PR [#1414](https://github.com//python/python-docs-fr/pull/1414) in [python/python-docs-fr](https://github.com//python/python-docs-fr)
+5. 🎉 Merged PR [#10](https://github.com//Seluj78/poutils/pull/10) in [Seluj78/poutils](https://github.com//Seluj78/poutils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
