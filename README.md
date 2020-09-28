@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#113](https://github.com/toolmantim/boomper/issues/113) in [toolmantim/boomper](https://github.com/toolmantim/boomper)
-2. ❗️ Opened issue [#298](https://github.com/Seluj78/PyMatcha/issues/298) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. ❗️ Opened issue [#297](https://github.com/Seluj78/PyMatcha/issues/297) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. ❗️ Opened issue [#296](https://github.com/Seluj78/PyMatcha/issues/296) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. 💪 Opened PR [#295](https://github.com/Seluj78/PyMatcha/pull/295) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🗣 Commented on [#222](https://github.com/Seluj78/PyMatcha/issues/222) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. 🗣 Commented on [#201](https://github.com/Seluj78/PyMatcha/issues/201) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. ❗️ Closed issue [#201](https://github.com/Seluj78/PyMatcha/issues/201) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Closed issue [#138](https://github.com/Seluj78/PyMatcha/issues/138) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🗣 Commented on [#138](https://github.com/Seluj78/PyMatcha/issues/138) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
