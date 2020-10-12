@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Seluj78/Potodo/issues/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. ❌ Closed PR [#70](https://github.com/Seluj78/Potodo/pull/70) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 🗣 Commented on [#70](https://github.com/Seluj78/Potodo/issues/70) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. 💪 Opened PR [#70](https://github.com/Seluj78/Potodo/pull/70) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. 🗣 Commented on [#68](https://github.com/Seluj78/Potodo/issues/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 🎉 Merged PR [#68](https://github.com/Seluj78/Potodo/pull/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. ❗️ Closed issue [#62](https://github.com/Seluj78/Potodo/issues/62) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. 🗣 Commented on [#68](https://github.com/Seluj78/Potodo/issues/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. ❌ Closed PR [#70](https://github.com/Seluj78/Potodo/pull/70) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. 🗣 Commented on [#70](https://github.com/Seluj78/Potodo/issues/70) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
