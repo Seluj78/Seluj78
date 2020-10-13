@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/Seluj78/Potodo/pull/80) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. ❗️ Closed issue [#79](https://github.com/Seluj78/Potodo/issues/79) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 💪 Opened PR [#80](https://github.com/Seluj78/Potodo/pull/80) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. ❗️ Closed issue [#72](https://github.com/Seluj78/Potodo/issues/72) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. ❗️ Opened issue [#79](https://github.com/Seluj78/Potodo/issues/79) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. ❗️ Opened issue [#81](https://github.com/Seluj78/Potodo/issues/81) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. 🎉 Merged PR [#80](https://github.com/Seluj78/Potodo/pull/80) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. ❗️ Closed issue [#79](https://github.com/Seluj78/Potodo/issues/79) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. 💪 Opened PR [#80](https://github.com/Seluj78/Potodo/pull/80) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. ❗️ Closed issue [#72](https://github.com/Seluj78/Potodo/issues/72) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
