@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-2. 🗣 Commented on [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-3. 🎉 Merged PR [#76](https://github.com/Seluj78/Potodo/pull/76) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. 🗣 Commented on [#77](https://github.com/Seluj78/Potodo/issues/77) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. ❗️ Opened issue [#77](https://github.com/Seluj78/Potodo/issues/77) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. ❗️ Closed issue [#72](https://github.com/Seluj78/Potodo/issues/72) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. ❗️ Opened issue [#79](https://github.com/Seluj78/Potodo/issues/79) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. 🎉 Merged PR [#78](https://github.com/Seluj78/Potodo/pull/78) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. 💪 Opened PR [#78](https://github.com/Seluj78/Potodo/pull/78) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. ❗️ Closed issue [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
