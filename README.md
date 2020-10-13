@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/Seluj78/Potodo/issues/44) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. 🗣 Commented on [#63](https://github.com/Seluj78/Potodo/issues/63) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 🎉 Merged PR [#68](https://github.com/Seluj78/Potodo/pull/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. ❗️ Closed issue [#62](https://github.com/Seluj78/Potodo/issues/62) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. 🗣 Commented on [#68](https://github.com/Seluj78/Potodo/issues/68) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 🎉 Merged PR [#329](https://github.com/Seluj78/PyMatcha/pull/329) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Closed issue [#279](https://github.com/Seluj78/PyMatcha/issues/279) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. 🗣 Commented on [#279](https://github.com/Seluj78/PyMatcha/issues/279) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Closed issue [#294](https://github.com/Seluj78/PyMatcha/issues/294) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🗣 Commented on [#294](https://github.com/Seluj78/PyMatcha/issues/294) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
