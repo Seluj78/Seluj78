@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#331](https://github.com/Seluj78/PyMatcha/pull/331) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. 💪 Opened PR [#331](https://github.com/Seluj78/PyMatcha/pull/331) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. 💪 Opened PR [#76](https://github.com/Seluj78/Potodo/pull/76) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. 🗣 Commented on [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
-5. 🗣 Commented on [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
+1. ❗️ Closed issue [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
+2. 🗣 Commented on [#3645](https://github.com/sindresorhus/refined-github/issues/3645) in [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github)
+3. 🎉 Merged PR [#76](https://github.com/Seluj78/Potodo/pull/76) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. 🗣 Commented on [#77](https://github.com/Seluj78/Potodo/issues/77) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. ❗️ Opened issue [#77](https://github.com/Seluj78/Potodo/issues/77) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
