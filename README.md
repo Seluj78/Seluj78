@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/Seluj78/Potodo/pull/86) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. 💪 Opened PR [#85](https://github.com/Seluj78/Potodo/pull/85) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 🎉 Merged PR [#84](https://github.com/Seluj78/Potodo/pull/84) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. ❗️ Closed issue [#81](https://github.com/Seluj78/Potodo/issues/81) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. 💪 Opened PR [#84](https://github.com/Seluj78/Potodo/pull/84) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 🗣 Commented on [#52](https://github.com/vpoulailleau/padpo/issues/52) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+2. 💪 Opened PR [#4](https://github.com/JulienPalard/pomerge/pull/4) in [JulienPalard/pomerge](https://github.com/JulienPalard/pomerge)
+3. 💪 Opened PR [#52](https://github.com/vpoulailleau/padpo/pull/52) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+4. 💪 Opened PR [#34](https://github.com/JulienPalard/pogrep/pull/34) in [JulienPalard/pogrep](https://github.com/JulienPalard/pogrep)
+5. ❗️ Opened issue [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
