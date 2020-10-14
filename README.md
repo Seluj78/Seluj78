@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#334](https://github.com/Seluj78/PyMatcha/issues/334) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. 🎉 Merged PR [#85](https://github.com/Seluj78/Potodo/pull/85) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. ❗️ Closed issue [#26](https://github.com/Seluj78/Potodo/issues/26) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. 🗣 Commented on [#52](https://github.com/vpoulailleau/padpo/issues/52) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
-5. 💪 Opened PR [#4](https://github.com/JulienPalard/pomerge/pull/4) in [JulienPalard/pomerge](https://github.com/JulienPalard/pomerge)
+1. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#1446](https://github.com/python/python-docs-fr/pull/1446) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. ❗️ Opened issue [#334](https://github.com/Seluj78/PyMatcha/issues/334) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🎉 Merged PR [#85](https://github.com/Seluj78/Potodo/pull/85) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
