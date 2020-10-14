@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/Seluj78/Potodo/issues/53) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🎉 Merged PR [#86](https://github.com/Seluj78/Potodo/pull/86) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. ❗️ Closed issue [#24](https://github.com/Seluj78/Potodo/issues/24) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 💪 Opened PR [#87](https://github.com/Seluj78/Potodo/pull/87) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. 🗣 Commented on [#53](https://github.com/Seluj78/Potodo/issues/53) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🎉 Merged PR [#86](https://github.com/Seluj78/Potodo/pull/86) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. ❗️ Closed issue [#24](https://github.com/Seluj78/Potodo/issues/24) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
