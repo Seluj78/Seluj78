@@ -42,10 +42,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 💪 Opened PR [#1446](https://github.com/python/python-docs-fr/pull/1446) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. ❗️ Opened issue [#334](https://github.com/Seluj78/PyMatcha/issues/334) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. 🎉 Merged PR [#85](https://github.com/Seluj78/Potodo/pull/85) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. 🎉 Merged PR [#86](https://github.com/Seluj78/Potodo/pull/86) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. ❗️ Closed issue [#24](https://github.com/Seluj78/Potodo/issues/24) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. 💪 Opened PR [#1446](https://github.com/python/python-docs-fr/pull/1446) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
