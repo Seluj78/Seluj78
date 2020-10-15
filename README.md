@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
-2. ❗️ Closed issue [#2](https://github.com/Seluj78/open-sauced-goals/issues/2) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
-3. ❗️ Closed issue [#1](https://github.com/Seluj78/open-sauced-goals/issues/1) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
-4. ❗️ Opened issue [#3](https://github.com/Seluj78/open-sauced-goals/issues/3) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
-5. ❗️ Opened issue [#2](https://github.com/Seluj78/open-sauced-goals/issues/2) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+1. 🗣 Commented on [#1100](https://github.com/python/python-docs-fr/issues/1100) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
+3. ❗️ Closed issue [#2](https://github.com/Seluj78/open-sauced-goals/issues/2) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+4. ❗️ Closed issue [#1](https://github.com/Seluj78/open-sauced-goals/issues/1) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+5. ❗️ Opened issue [#3](https://github.com/Seluj78/open-sauced-goals/issues/3) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
