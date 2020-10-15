@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3339](https://github.com/TheAlgorithms/Python/pull/3339) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-2. 💪 Opened PR [#1449](https://github.com/python/python-docs-fr/pull/1449) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-4. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-5. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+1. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
+2. ❗️ Closed issue [#2](https://github.com/Seluj78/open-sauced-goals/issues/2) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+3. ❗️ Closed issue [#1](https://github.com/Seluj78/open-sauced-goals/issues/1) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+4. ❗️ Opened issue [#3](https://github.com/Seluj78/open-sauced-goals/issues/3) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
+5. ❗️ Opened issue [#2](https://github.com/Seluj78/open-sauced-goals/issues/2) in [Seluj78/open-sauced-goals](https://github.com/Seluj78/open-sauced-goals)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
