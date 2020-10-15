@@ -41,9 +41,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-2. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-3. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+1. 💪 Opened PR [#3339](https://github.com/TheAlgorithms/Python/pull/3339) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+2. 💪 Opened PR [#1449](https://github.com/python/python-docs-fr/pull/1449) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 4. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 5. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 <!--END_SECTION:activity-->
