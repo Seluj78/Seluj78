@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-2. 💪 Opened PR [#87](https://github.com/Seluj78/Potodo/pull/87) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 🗣 Commented on [#53](https://github.com/Seluj78/Potodo/issues/53) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-4. 🗣 Commented on [#1445](https://github.com/python/python-docs-fr/issues/1445) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🎉 Merged PR [#86](https://github.com/Seluj78/Potodo/pull/86) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 🗣 Commented on [#39](https://github.com/Seluj78/Potodo/issues/39) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. ❗️ Opened issue [#1079](https://github.com/python/python-docs-es/issues/1079) in [python/python-docs-es](https://github.com/python/python-docs-es)
+3. 🎉 Merged PR [#87](https://github.com/Seluj78/Potodo/pull/87) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+4. ❗️ Closed issue [#53](https://github.com/Seluj78/Potodo/issues/53) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. ❗️ Opened issue [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
