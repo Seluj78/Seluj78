@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1448](https://github.com/python/python-docs-fr/issues/1448) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#39](https://github.com/Seluj78/Potodo/issues/39) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. ❗️ Opened issue [#1079](https://github.com/python/python-docs-es/issues/1079) in [python/python-docs-es](https://github.com/python/python-docs-es)
-4. 🎉 Merged PR [#87](https://github.com/Seluj78/Potodo/pull/87) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. ❗️ Closed issue [#53](https://github.com/Seluj78/Potodo/issues/53) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+2. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+3. 💪 Opened PR [#28](https://github.com/mherrmann/gitignore_parser/pull/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+4. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+5. 🗣 Commented on [#27](https://github.com/mherrmann/gitignore_parser/issues/27) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
