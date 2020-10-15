@@ -5,10 +5,10 @@
 
 ## I'm a Developper, DJ and Scout Leader
 
-- 🔭 I’m currently redoing my [website][website]!
-- 🌱 I’m currently learning everything I can about Python 🤣
+- 🔭 I’m currently working a [dating website][matcha] website for my school!
+- 🌱 I’m currently looking for more open source projects to contribute to/create more packages for people to use!
 - 👯 I’m looking to collaborate with more people on open source projects
-- 🥅 2020 Goals: Finish 42 and find some freelance jobs
+- 🥅 2021 Goals: Finish 42 and find some freelance jobs
 - ⚡ Fun fact: My dream is to organize a music festival
 
 ### Spotify Playing 🎧
@@ -62,7 +62,7 @@
 <br />
 <br />
 
-[website]: https://seluj78.com
+[matcha]: https://github.com/seluj78/pymatcha
 [twitter]: https://twitter.com/seluj78
 [instagram]: https://instagram.com/jules_lasne
 [linkedin]: https://www.linkedin.com/in/jules-lasne/
