@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1119](https://github.com/python/python-docs-fr/issues/1119) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 💪 Opened PR [#1450](https://github.com/python/python-docs-fr/pull/1450) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🎉 Merged PR [#12](https://github.com/Seluj78/poutils/pull/12) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
+2. 🗣 Commented on [#12](https://github.com/Seluj78/poutils/issues/12) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
 3. 🗣 Commented on [#1119](https://github.com/python/python-docs-fr/issues/1119) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. ❗️ Closed issue [#1014](https://github.com/python/python-docs-fr/issues/1014) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#1014](https://github.com/python/python-docs-fr/issues/1014) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 💪 Opened PR [#1450](https://github.com/python/python-docs-fr/pull/1450) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. 🗣 Commented on [#1119](https://github.com/python/python-docs-fr/issues/1119) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
