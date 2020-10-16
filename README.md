@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-2. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+1. ❗️ Opened issue [#2](https://github.com/JulienPalard/pomme/issues/2) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
+2. 💪 Opened PR [#1](https://github.com/JulienPalard/pomme/pull/1) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
 3. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-4. 🎉 Merged PR [#1450](https://github.com/python/python-docs-fr/pull/1450) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. ❗️ Closed issue [#1065](https://github.com/python/python-docs-fr/issues/1065) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+5. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
