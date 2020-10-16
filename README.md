@@ -42,10 +42,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-2. 🎉 Merged PR [#1450](https://github.com/python/python-docs-fr/pull/1450) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. ❗️ Closed issue [#1065](https://github.com/python/python-docs-fr/issues/1065) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 💪 Opened PR [#1452](https://github.com/python/python-docs-fr/pull/1452) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. ❗️ Opened issue [#89](https://github.com/Seluj78/Potodo/issues/89) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+2. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+3. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+4. 🎉 Merged PR [#1450](https://github.com/python/python-docs-fr/pull/1450) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. ❗️ Closed issue [#1065](https://github.com/python/python-docs-fr/issues/1065) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
