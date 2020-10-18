@@ -41,10 +41,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/JulienPalard/pomme/issues/2) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
-2. 💪 Opened PR [#1](https://github.com/JulienPalard/pomme/pull/1) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
-3. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
-4. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
+1. 🎉 Merged PR [#1454](https://github.com/python/python-docs-fr/pull/1454) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. ❗️ Closed issue [#1453](https://github.com/python/python-docs-fr/issues/1453) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. ❗️ Opened issue [#2](https://github.com/JulienPalard/pomme/issues/2) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
+4. 💪 Opened PR [#1](https://github.com/JulienPalard/pomme/pull/1) in [JulienPalard/pomme](https://github.com/JulienPalard/pomme)
 5. 🗣 Commented on [#28](https://github.com/mherrmann/gitignore_parser/issues/28) in [mherrmann/gitignore_parser](https://github.com/mherrmann/gitignore_parser)
 <!--END_SECTION:activity-->
 
