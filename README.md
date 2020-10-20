@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#347](https://github.com/Seluj78/PyMatcha/pull/347) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. 🗣 Commented on [#91](https://github.com/gunthercox/chatterbot-corpus/issues/91) in [gunthercox/chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus)
-3. 🗣 Commented on [#157](https://github.com/gunthercox/chatterbot-corpus/issues/157) in [gunthercox/chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus)
-4. 🎉 Merged PR [#346](https://github.com/Seluj78/PyMatcha/pull/346) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❗️ Closed issue [#339](https://github.com/Seluj78/PyMatcha/issues/339) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🎉 Merged PR [#347](https://github.com/Seluj78/PyMatcha/pull/347) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Closed issue [#143](https://github.com/Seluj78/PyMatcha/issues/143) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
+4. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
+5. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
