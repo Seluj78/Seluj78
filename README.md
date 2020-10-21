@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/Seluj78/Potodo/issues/90) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. ❗️ Opened issue [#349](https://github.com/Seluj78/PyMatcha/issues/349) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
+1. ❗️ Opened issue [#351](https://github.com/Seluj78/PyMatcha/issues/351) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. 🗣 Commented on [#90](https://github.com/Seluj78/Potodo/issues/90) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. ❗️ Opened issue [#349](https://github.com/Seluj78/PyMatcha/issues/349) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 4. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
-5. 🗣 Commented on [#90](https://github.com/Seluj78/Potodo/issues/90) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+5. 🗣 Commented on [#10](https://github.com/IngoMeyer441/simple-term-menu/issues/10) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
