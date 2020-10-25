@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/Seluj78/Potodo/pull/96) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-2. 🗣 Commented on [#90](https://github.com/Seluj78/Potodo/issues/90) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-3. 🗣 Commented on [#94](https://github.com/Seluj78/Potodo/issues/94) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. ❗️ Opened issue [#5067](https://github.com/github/linguist/issues/5067) in [github/linguist](https://github.com/github/linguist)
+2. 💪 Opened PR [#96](https://github.com/Seluj78/Potodo/pull/96) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+3. 🗣 Commented on [#90](https://github.com/Seluj78/Potodo/issues/90) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 4. 🗣 Commented on [#94](https://github.com/Seluj78/Potodo/issues/94) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
-5. 🎉 Merged PR [#356](https://github.com/Seluj78/PyMatcha/pull/356) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🗣 Commented on [#94](https://github.com/Seluj78/Potodo/issues/94) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
