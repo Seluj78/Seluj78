@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/asbjornenge/Docker.tmbundle/issues/33) in [asbjornenge/Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)
-2. 🗣 Commented on [#5067](https://github.com/github/linguist/issues/5067) in [github/linguist](https://github.com/github/linguist)
-3. 🗣 Commented on [#15](https://github.com/AFPy/infra/issues/15) in [AFPy/infra](https://github.com/AFPy/infra)
-4. ❗️ Opened issue [#5067](https://github.com/github/linguist/issues/5067) in [github/linguist](https://github.com/github/linguist)
-5. 💪 Opened PR [#96](https://github.com/Seluj78/Potodo/pull/96) in [Seluj78/Potodo](https://github.com/Seluj78/Potodo)
+1. 💪 Opened PR [#365](https://github.com/Seluj78/PyMatcha/pull/365) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Opened issue [#364](https://github.com/Seluj78/PyMatcha/issues/364) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. ❗️ Opened issue [#363](https://github.com/Seluj78/PyMatcha/issues/363) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Opened issue [#33](https://github.com/asbjornenge/Docker.tmbundle/issues/33) in [asbjornenge/Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)
+5. 🗣 Commented on [#5067](https://github.com/github/linguist/issues/5067) in [github/linguist](https://github.com/github/linguist)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
