@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com/Seluj78/PyMatcha/pull/365) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. ❗️ Opened issue [#364](https://github.com/Seluj78/PyMatcha/issues/364) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. ❗️ Opened issue [#363](https://github.com/Seluj78/PyMatcha/issues/363) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. ❗️ Opened issue [#33](https://github.com/asbjornenge/Docker.tmbundle/issues/33) in [asbjornenge/Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)
-5. 🗣 Commented on [#5067](https://github.com/github/linguist/issues/5067) in [github/linguist](https://github.com/github/linguist)
+1. 🎉 Merged PR [#366](https://github.com/Seluj78/PyMatcha/pull/366) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. 💪 Opened PR [#365](https://github.com/Seluj78/PyMatcha/pull/365) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. ❗️ Opened issue [#364](https://github.com/Seluj78/PyMatcha/issues/364) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Opened issue [#363](https://github.com/Seluj78/PyMatcha/issues/363) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. ❗️ Opened issue [#33](https://github.com/asbjornenge/Docker.tmbundle/issues/33) in [asbjornenge/Docker.tmbundle](https://github.com/asbjornenge/Docker.tmbundle)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
