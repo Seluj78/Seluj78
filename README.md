@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/AFPy/site/issues/56) in [AFPy/site](https://github.com/AFPy/site)
-2. 💪 Opened PR [#58](https://github.com/AFPy/site/pull/58) in [AFPy/site](https://github.com/AFPy/site)
-3. 🗣 Commented on [#57](https://github.com/AFPy/site/issues/57) in [AFPy/site](https://github.com/AFPy/site)
-4. ❗️ Opened issue [#57](https://github.com/AFPy/site/issues/57) in [AFPy/site](https://github.com/AFPy/site)
-5. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
+1. 🗣 Commented on [#12](https://github.com/IngoMeyer441/simple-term-menu/issues/12) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
+2. 🗣 Commented on [#12](https://github.com/IngoMeyer441/simple-term-menu/issues/12) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
+3. 🗣 Commented on [#56](https://github.com/AFPy/site/issues/56) in [AFPy/site](https://github.com/AFPy/site)
+4. 💪 Opened PR [#58](https://github.com/AFPy/site/pull/58) in [AFPy/site](https://github.com/AFPy/site)
+5. 🗣 Commented on [#57](https://github.com/AFPy/site/issues/57) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
