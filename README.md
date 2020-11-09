@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/IngoMeyer441/simple-term-menu/issues/12) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
-2. 🗣 Commented on [#12](https://github.com/IngoMeyer441/simple-term-menu/issues/12) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
-3. 🗣 Commented on [#56](https://github.com/AFPy/site/issues/56) in [AFPy/site](https://github.com/AFPy/site)
-4. 💪 Opened PR [#58](https://github.com/AFPy/site/pull/58) in [AFPy/site](https://github.com/AFPy/site)
-5. 🗣 Commented on [#57](https://github.com/AFPy/site/issues/57) in [AFPy/site](https://github.com/AFPy/site)
+1. 🎉 Merged PR [#415](https://github.com/Seluj78/PyMatcha/pull/415) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Closed issue [#409](https://github.com/Seluj78/PyMatcha/issues/409) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. 🎉 Merged PR [#416](https://github.com/Seluj78/PyMatcha/pull/416) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Closed issue [#408](https://github.com/Seluj78/PyMatcha/issues/408) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🗣 Commented on [#12](https://github.com/IngoMeyer441/simple-term-menu/issues/12) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
