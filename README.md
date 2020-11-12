@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/AFPy/site/issues/55) in [AFPy/site](https://github.com/AFPy/site)
-2. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
-3. 💪 Opened PR [#2](https://github.com/42School/norminette/pull/2) in [42School/norminette](https://github.com/42School/norminette)
-4. 💪 Opened PR [#1](https://github.com/42School/norminette/pull/1) in [42School/norminette](https://github.com/42School/norminette)
-5. ❗️ Closed issue [#367](https://github.com/Seluj78/PyMatcha/issues/367) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🗣 Commented on [#48](https://github.com/AFPy/site/issues/48) in [AFPy/site](https://github.com/AFPy/site)
+2. 🗣 Commented on [#59](https://github.com/AFPy/site/issues/59) in [AFPy/site](https://github.com/AFPy/site)
+3. 🗣 Commented on [#55](https://github.com/AFPy/site/issues/55) in [AFPy/site](https://github.com/AFPy/site)
+4. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
+5. 💪 Opened PR [#2](https://github.com/42School/norminette/pull/2) in [42School/norminette](https://github.com/42School/norminette)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
