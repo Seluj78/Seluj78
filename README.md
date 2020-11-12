@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#397](https://github.com/Seluj78/PyMatcha/issues/397) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. 🎉 Merged PR [#430](https://github.com/Seluj78/PyMatcha/pull/430) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. ❗️ Closed issue [#202](https://github.com/Seluj78/PyMatcha/issues/202) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. 🎉 Merged PR [#429](https://github.com/Seluj78/PyMatcha/pull/429) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❗️ Closed issue [#362](https://github.com/Seluj78/PyMatcha/issues/362) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🗣 Commented on [#55](https://github.com/AFPy/site/issues/55) in [AFPy/site](https://github.com/AFPy/site)
+2. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
+3. 💪 Opened PR [#2](https://github.com/42School/norminette/pull/2) in [42School/norminette](https://github.com/42School/norminette)
+4. 💪 Opened PR [#1](https://github.com/42School/norminette/pull/1) in [42School/norminette](https://github.com/42School/norminette)
+5. ❗️ Closed issue [#367](https://github.com/Seluj78/PyMatcha/issues/367) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
