@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/AFPy/site/issues/48) in [AFPy/site](https://github.com/AFPy/site)
-2. 🗣 Commented on [#59](https://github.com/AFPy/site/issues/59) in [AFPy/site](https://github.com/AFPy/site)
-3. 🗣 Commented on [#55](https://github.com/AFPy/site/issues/55) in [AFPy/site](https://github.com/AFPy/site)
-4. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
-5. 💪 Opened PR [#2](https://github.com/42School/norminette/pull/2) in [42School/norminette](https://github.com/42School/norminette)
+1. 🗣 Commented on [#2](https://github.com/42School/norminette/issues/2) in [42School/norminette](https://github.com/42School/norminette)
+2. 🗣 Commented on [#48](https://github.com/AFPy/site/issues/48) in [AFPy/site](https://github.com/AFPy/site)
+3. 🗣 Commented on [#59](https://github.com/AFPy/site/issues/59) in [AFPy/site](https://github.com/AFPy/site)
+4. 🗣 Commented on [#55](https://github.com/AFPy/site/issues/55) in [AFPy/site](https://github.com/AFPy/site)
+5. 🗣 Commented on [#49](https://github.com/AFPy/site/issues/49) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
