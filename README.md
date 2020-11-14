@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#78](https://github.com/Seluj78/PyMatcha/issues/78) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-2. ❗️ Closed issue [#63](https://github.com/Seluj78/PyMatcha/issues/63) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. ❗️ Closed issue [#249](https://github.com/Seluj78/PyMatcha/issues/249) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. ❗️ Closed issue [#248](https://github.com/Seluj78/PyMatcha/issues/248) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❗️ Closed issue [#285](https://github.com/Seluj78/PyMatcha/issues/285) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. ❗️ Opened issue [#449](https://github.com/Seluj78/PyMatcha/issues/449) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Opened issue [#448](https://github.com/Seluj78/PyMatcha/issues/448) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. ❗️ Opened issue [#447](https://github.com/Seluj78/PyMatcha/issues/447) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Opened issue [#446](https://github.com/Seluj78/PyMatcha/issues/446) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. ❗️ Opened issue [#445](https://github.com/Seluj78/PyMatcha/issues/445) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
