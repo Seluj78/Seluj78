@@ -1,6 +1,6 @@
 ### Hi there, My name's Jules - aka Seluj78 👋
 
-[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fjuleslasne.com)](https://juleslasne.com)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=htts%3A%2F%2Fjuleslasne.com)](http://juleslasne.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Seluj78?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSeluj78&screen_name=Seluj78)
 
 ## I'm a Developper, DJ and Scout Leader
@@ -62,6 +62,7 @@
 <br />
 <br />
 
+[website]: http://juleslasne.com
 [matcha]: https://github.com/seluj78/pymatcha
 [twitter]: https://twitter.com/seluj78
 [instagram]: https://instagram.com/jules_lasne
