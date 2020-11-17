@@ -41,11 +41,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/AFPy/site/issues/59) in [AFPy/site](https://github.com/AFPy/site)
-2. 🗣 Commented on [#457](https://github.com/Seluj78/PyMatcha/issues/457) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. ❗️ Opened issue [#457](https://github.com/Seluj78/PyMatcha/issues/457) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. 🎉 Merged PR [#456](https://github.com/Seluj78/PyMatcha/pull/456) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❗️ Closed issue [#439](https://github.com/Seluj78/PyMatcha/issues/439) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🎉 Merged PR [#458](https://github.com/Seluj78/PyMatcha/pull/458) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Closed issue [#457](https://github.com/Seluj78/PyMatcha/issues/457) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+3. 🗣 Commented on [#59](https://github.com/AFPy/site/issues/59) in [AFPy/site](https://github.com/AFPy/site)
+4. 🗣 Commented on [#457](https://github.com/Seluj78/PyMatcha/issues/457) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. ❗️ Opened issue [#457](https://github.com/Seluj78/PyMatcha/issues/457) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
