@@ -41,10 +41,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#91](https://github.com/AFPy/Potodo/pull/91) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
+1. 🗣 Commented on [#54](https://github.com/vpoulailleau/padpo/issues/54) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+2. ❌ Closed PR [#91](https://github.com/AFPy/Potodo/pull/91) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 3. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
-4. 🗣 Commented on [#2](https://github.com/thehanimo/pr-title-checker/issues/2) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
+4. 🗣 Commented on [#11](https://github.com/Seluj78/poutils/issues/11) in [Seluj78/poutils](https://github.com/Seluj78/poutils)
 5. 🗣 Commented on [#2](https://github.com/thehanimo/pr-title-checker/issues/2) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
 <!--END_SECTION:activity-->
 
