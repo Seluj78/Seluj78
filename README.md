@@ -41,10 +41,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/thehanimo/pr-title-checker/issues/2) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
-2. 🗣 Commented on [#1100](https://github.com/python/python-docs-fr/issues/1100) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🗣 Commented on [#1390](https://github.com/python/python-docs-fr/issues/1390) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 🗣 Commented on [#466](https://github.com/Seluj78/PyMatcha/issues/466) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 💪 Opened PR [#1472](https://github.com/python/python-docs-fr/pull/1472) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. ❗️ Opened issue [#2](https://github.com/thehanimo/pr-title-checker/issues/2) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
+3. 🗣 Commented on [#1100](https://github.com/python/python-docs-fr/issues/1100) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🗣 Commented on [#1390](https://github.com/python/python-docs-fr/issues/1390) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 5. 🗣 Commented on [#466](https://github.com/Seluj78/PyMatcha/issues/466) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
