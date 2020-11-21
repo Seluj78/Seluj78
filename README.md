@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=http%3A%2F%2Fjuleslasne.com)](http://juleslasne.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Seluj78?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSeluj78&screen_name=Seluj78)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/seluj78/my-stack)
 
 ## I'm a Developper, DJ and Scout Leader
 
