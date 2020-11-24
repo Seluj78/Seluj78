@@ -42,8 +42,8 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1474](https://github.com/python/python-docs-fr/pull/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#1474](https://github.com/python/python-docs-fr/issues/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 💪 Opened PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. 🎉 Merged PR [#1474](https://github.com/python/python-docs-fr/pull/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 3. 🗣 Commented on [#1474](https://github.com/python/python-docs-fr/issues/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 4. 🗣 Commented on [#1474](https://github.com/python/python-docs-fr/issues/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 5. 🗣 Commented on [#1474](https://github.com/python/python-docs-fr/issues/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
