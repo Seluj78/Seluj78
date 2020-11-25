@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1475](https://github.com/python/python-docs-fr/pull/1475) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#1468](https://github.com/python/python-docs-fr/issues/1468) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. ❌ Closed PR [#48](https://github.com/AFPy/site/pull/48) in [AFPy/site](https://github.com/AFPy/site)
-4. 🗣 Commented on [#48](https://github.com/AFPy/site/issues/48) in [AFPy/site](https://github.com/AFPy/site)
-5. 🗣 Commented on [#16](https://github.com/AFPy/site/issues/16) in [AFPy/site](https://github.com/AFPy/site)
+1. ❗️ Opened issue [#1476](https://github.com/python/python-docs-fr/issues/1476) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#1475](https://github.com/python/python-docs-fr/pull/1475) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 🗣 Commented on [#1468](https://github.com/python/python-docs-fr/issues/1468) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. ❌ Closed PR [#48](https://github.com/AFPy/site/pull/48) in [AFPy/site](https://github.com/AFPy/site)
+5. 🗣 Commented on [#48](https://github.com/AFPy/site/issues/48) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
