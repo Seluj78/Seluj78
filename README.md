@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1468](https://github.com/python/python-docs-fr/issues/1468) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#1977](https://github.com/flask-admin/flask-admin/issues/1977) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
-3. ❗️ Closed issue [#469](https://github.com/Seluj78/PyMatcha/issues/469) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. 🎉 Merged PR [#471](https://github.com/Seluj78/PyMatcha/pull/471) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. 🎉 Merged PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🗣 Commented on [#8](https://github.com/AFPy/site/issues/8) in [AFPy/site](https://github.com/AFPy/site)
+2. 🗣 Commented on [#42](https://github.com/AFPy/site/issues/42) in [AFPy/site](https://github.com/AFPy/site)
+3. ❗️ Closed issue [#45](https://github.com/AFPy/site/issues/45) in [AFPy/site](https://github.com/AFPy/site)
+4. 🗣 Commented on [#47](https://github.com/AFPy/site/issues/47) in [AFPy/site](https://github.com/AFPy/site)
+5. ❗️ Closed issue [#56](https://github.com/AFPy/site/issues/56) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
