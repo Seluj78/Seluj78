@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/AFPy/site/issues/8) in [AFPy/site](https://github.com/AFPy/site)
-2. 🗣 Commented on [#42](https://github.com/AFPy/site/issues/42) in [AFPy/site](https://github.com/AFPy/site)
-3. ❗️ Closed issue [#45](https://github.com/AFPy/site/issues/45) in [AFPy/site](https://github.com/AFPy/site)
-4. 🗣 Commented on [#47](https://github.com/AFPy/site/issues/47) in [AFPy/site](https://github.com/AFPy/site)
-5. ❗️ Closed issue [#56](https://github.com/AFPy/site/issues/56) in [AFPy/site](https://github.com/AFPy/site)
+1. 🗣 Commented on [#16](https://github.com/AFPy/site/issues/16) in [AFPy/site](https://github.com/AFPy/site)
+2. 🗣 Commented on [#43](https://github.com/AFPy/site/issues/43) in [AFPy/site](https://github.com/AFPy/site)
+3. 🗣 Commented on [#50](https://github.com/AFPy/site/issues/50) in [AFPy/site](https://github.com/AFPy/site)
+4. 🗣 Commented on [#46](https://github.com/AFPy/site/issues/46) in [AFPy/site](https://github.com/AFPy/site)
+5. 🗣 Commented on [#53](https://github.com/AFPy/site/issues/53) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
