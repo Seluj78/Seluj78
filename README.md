@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1977](https://github.com/flask-admin/flask-admin/issues/1977) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
-2. ❗️ Closed issue [#469](https://github.com/Seluj78/PyMatcha/issues/469) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. 🎉 Merged PR [#471](https://github.com/Seluj78/PyMatcha/pull/471) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. 🎉 Merged PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❗️ Opened issue [#14](https://github.com/aachurin/peewee_migrations/issues/14) in [aachurin/peewee_migrations](https://github.com/aachurin/peewee_migrations)
+1. 🗣 Commented on [#1468](https://github.com/python/python-docs-fr/issues/1468) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 🗣 Commented on [#1977](https://github.com/flask-admin/flask-admin/issues/1977) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
+3. ❗️ Closed issue [#469](https://github.com/Seluj78/PyMatcha/issues/469) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. 🎉 Merged PR [#471](https://github.com/Seluj78/PyMatcha/pull/471) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🎉 Merged PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
