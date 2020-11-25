@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/aachurin/peewee_migrations/issues/14) in [aachurin/peewee_migrations](https://github.com/aachurin/peewee_migrations)
-2. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-3. 💪 Opened PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. 🎉 Merged PR [#1474](https://github.com/python/python-docs-fr/pull/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#1474](https://github.com/python/python-docs-fr/issues/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🎉 Merged PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+2. ❗️ Opened issue [#14](https://github.com/aachurin/peewee_migrations/issues/14) in [aachurin/peewee_migrations](https://github.com/aachurin/peewee_migrations)
+3. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+4. 💪 Opened PR [#470](https://github.com/Seluj78/PyMatcha/pull/470) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🎉 Merged PR [#1474](https://github.com/python/python-docs-fr/pull/1474) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
