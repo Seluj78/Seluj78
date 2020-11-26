@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/PyDocTeur/fake-docs/pull/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-2. ❌ Reopened PR [#1](https://github.com/PyDocTeur/fake-docs/pull/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-3. ❌ Reopened PR [#1](https://github.com/PyDocTeur/fake-docs/pull/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-4. ❌ Closed PR [#1](https://github.com/PyDocTeur/fake-docs/pull/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-5. ❌ Reopened PR [#1](https://github.com/PyDocTeur/fake-docs/pull/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+1. 🎉 Merged PR [#2](https://github.com/PyDocTeur/fake-docs/pull/2) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+2. ❌ Reopened PR [#2](https://github.com/PyDocTeur/fake-docs/pull/2) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+3. ❌ Closed PR [#2](https://github.com/PyDocTeur/fake-docs/pull/2) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+4. ❌ Reopened PR [#2](https://github.com/PyDocTeur/fake-docs/pull/2) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+5. ❌ Closed PR [#2](https://github.com/PyDocTeur/fake-docs/pull/2) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
