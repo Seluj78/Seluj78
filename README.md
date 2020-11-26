@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/AFPy/Potodo/pull/104) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. 💪 Opened PR [#104](https://github.com/AFPy/Potodo/pull/104) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-3. 🎉 Merged PR [#102](https://github.com/AFPy/Potodo/pull/102) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. ❗️ Opened issue [#103](https://github.com/AFPy/Potodo/issues/103) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. 💪 Opened PR [#102](https://github.com/AFPy/Potodo/pull/102) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#1](https://github.com/PyDocTeur/fake-docs/issues/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+2. 🗣 Commented on [#1](https://github.com/PyDocTeur/fake-docs/issues/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+3. ❗️ Closed issue [#94](https://github.com/AFPy/Potodo/issues/94) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+4. 🗣 Commented on [#94](https://github.com/AFPy/Potodo/issues/94) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+5. ❗️ Closed issue [#100](https://github.com/AFPy/Potodo/issues/100) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
