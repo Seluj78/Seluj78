@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/AFPy/Potodo/pull/96) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. 🗣 Commented on [#93](https://github.com/AFPy/Potodo/issues/93) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-3. 🗣 Commented on [#99](https://github.com/AFPy/Potodo/issues/99) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. 🎉 Merged PR [#95](https://github.com/AFPy/Potodo/pull/95) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. ❗️ Opened issue [#100](https://github.com/AFPy/Potodo/issues/100) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🎉 Merged PR [#93](https://github.com/AFPy/Potodo/pull/93) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. ❗️ Closed issue [#90](https://github.com/AFPy/Potodo/issues/90) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+3. ❗️ Opened issue [#101](https://github.com/AFPy/Potodo/issues/101) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+4. 🗣 Commented on [#93](https://github.com/AFPy/Potodo/issues/93) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+5. 🗣 Commented on [#93](https://github.com/AFPy/Potodo/issues/93) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
