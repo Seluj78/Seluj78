@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#101](https://github.com/AFPy/Potodo/issues/101) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. 🗣 Commented on [#1](https://github.com/PyDocTeur/fake-docs/issues/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+2. 🗣 Commented on [#101](https://github.com/AFPy/Potodo/issues/101) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 3. 🗣 Commented on [#1](https://github.com/PyDocTeur/fake-docs/issues/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-4. ❗️ Closed issue [#94](https://github.com/AFPy/Potodo/issues/94) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. 🗣 Commented on [#94](https://github.com/AFPy/Potodo/issues/94) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+4. 🗣 Commented on [#1](https://github.com/PyDocTeur/fake-docs/issues/1) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+5. ❗️ Closed issue [#94](https://github.com/AFPy/Potodo/issues/94) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
