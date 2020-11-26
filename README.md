@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1051](https://github.com/python/python-docs-fr/issues/1051) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. ❗️ Opened issue [#1476](https://github.com/python/python-docs-fr/issues/1476) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 💪 Opened PR [#1475](https://github.com/python/python-docs-fr/pull/1475) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 🗣 Commented on [#1468](https://github.com/python/python-docs-fr/issues/1468) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. ❌ Closed PR [#48](https://github.com/AFPy/site/pull/48) in [AFPy/site](https://github.com/AFPy/site)
+1. ❗️ Opened issue [#66](https://github.com/AFPy/site/issues/66) in [AFPy/site](https://github.com/AFPy/site)
+2. ❗️ Opened issue [#65](https://github.com/AFPy/site/issues/65) in [AFPy/site](https://github.com/AFPy/site)
+3. 🎉 Merged PR [#473](https://github.com/Seluj78/PyMatcha/pull/473) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+4. ❗️ Closed issue [#472](https://github.com/Seluj78/PyMatcha/issues/472) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+5. 🗣 Commented on [#99](https://github.com/AFPy/Potodo/issues/99) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
