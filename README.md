@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/AFPy/PyDocTeur/issues/10) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-2. 💪 Opened PR [#6](https://github.com/PyDocTeur/fake-docs/pull/6) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-3. ❗️ Opened issue [#9](https://github.com/AFPy/PyDocTeur/issues/9) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🎉 Merged PR [#6](https://github.com/AFPy/PyDocTeur/pull/6) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-5. ❗️ Opened issue [#8](https://github.com/AFPy/PyDocTeur/issues/8) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+1. 🗣 Commented on [#6](https://github.com/PyDocTeur/fake-docs/issues/6) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+2. ❗️ Opened issue [#10](https://github.com/AFPy/PyDocTeur/issues/10) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 💪 Opened PR [#6](https://github.com/PyDocTeur/fake-docs/pull/6) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+4. ❗️ Opened issue [#9](https://github.com/AFPy/PyDocTeur/issues/9) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🎉 Merged PR [#6](https://github.com/AFPy/PyDocTeur/pull/6) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
