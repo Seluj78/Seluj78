@@ -42,9 +42,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/PyDocTeur/fake-docs/pull/8) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-2. ❗️ Opened issue [#12](https://github.com/AFPy/PyDocTeur/issues/12) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#7](https://github.com/PyDocTeur/fake-docs/issues/7) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+1. ❗️ Opened issue [#1483](https://github.com/python/python-docs-fr/issues/1483) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#8](https://github.com/PyDocTeur/fake-docs/pull/8) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+3. ❗️ Opened issue [#12](https://github.com/AFPy/PyDocTeur/issues/12) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 4. 🗣 Commented on [#7](https://github.com/PyDocTeur/fake-docs/issues/7) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
 5. 🗣 Commented on [#7](https://github.com/PyDocTeur/fake-docs/issues/7) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
 <!--END_SECTION:activity-->
