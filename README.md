@@ -42,10 +42,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/PyDocTeur/fake-docs/issues/11) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-2. 🗣 Commented on [#11](https://github.com/PyDocTeur/fake-docs/issues/11) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-3. 🗣 Commented on [#11](https://github.com/PyDocTeur/fake-docs/issues/11) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-4. 🗣 Commented on [#11](https://github.com/PyDocTeur/fake-docs/issues/11) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+1. 💪 Opened PR [#22](https://github.com/AFPy/PyDocTeur/pull/22) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🗣 Commented on [#12](https://github.com/PyDocTeur/fake-docs/issues/12) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+3. 💪 Opened PR [#12](https://github.com/PyDocTeur/fake-docs/pull/12) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+4. 🗣 Commented on [#12](https://github.com/AFPy/PyDocTeur/issues/12) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 5. 🗣 Commented on [#11](https://github.com/PyDocTeur/fake-docs/issues/11) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
 <!--END_SECTION:activity-->
 
