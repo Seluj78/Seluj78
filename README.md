@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/AFPy/PyDocTeur/pull/45) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-2. ❗️ Closed issue [#40](https://github.com/AFPy/PyDocTeur/issues/40) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. ❌ Closed PR [#484](https://github.com/Seluj78/PyMatcha/pull/484) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-4. ❌ Closed PR [#482](https://github.com/Seluj78/PyMatcha/pull/482) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-5. ❌ Closed PR [#481](https://github.com/Seluj78/PyMatcha/pull/481) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. 🎉 Merged PR [#46](https://github.com/AFPy/PyDocTeur/pull/46) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. ❗️ Closed issue [#20](https://github.com/AFPy/PyDocTeur/issues/20) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#1621](https://github.com/PyGithub/PyGithub/issues/1621) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+4. 💪 Opened PR [#47](https://github.com/AFPy/PyDocTeur/pull/47) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🎉 Merged PR [#45](https://github.com/AFPy/PyDocTeur/pull/45) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
