@@ -42,10 +42,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/AFPy/PyDocTeur/pull/54) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+1. 🗣 Commented on [#54](https://github.com/vpoulailleau/padpo/issues/54) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
 2. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#17](https://github.com/PyDocTeur/fake-docs/issues/17) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+3. 💪 Opened PR [#54](https://github.com/AFPy/PyDocTeur/pull/54) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 5. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
