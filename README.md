@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1497](https://github.com/python/python-docs-fr/issues/1497) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🎉 Merged PR [#52](https://github.com/AFPy/PyDocTeur/pull/52) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#1496](https://github.com/python/python-docs-fr/issues/1496) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 💪 Opened PR [#52](https://github.com/AFPy/PyDocTeur/pull/52) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-5. 🗣 Commented on [#1497](https://github.com/python/python-docs-fr/issues/1497) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. ❗️ Closed issue [#53](https://github.com/AFPy/PyDocTeur/issues/53) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🗣 Commented on [#53](https://github.com/AFPy/PyDocTeur/issues/53) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#3](https://github.com/thehanimo/pr-title-checker/issues/3) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
+4. 🗣 Commented on [#3](https://github.com/thehanimo/pr-title-checker/issues/3) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
+5. 🗣 Commented on [#3](https://github.com/thehanimo/pr-title-checker/issues/3) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
