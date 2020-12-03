@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-2. ❗️ Closed issue [#53](https://github.com/AFPy/PyDocTeur/issues/53) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#53](https://github.com/AFPy/PyDocTeur/issues/53) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#3](https://github.com/thehanimo/pr-title-checker/issues/3) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
-5. 🗣 Commented on [#3](https://github.com/thehanimo/pr-title-checker/issues/3) in [thehanimo/pr-title-checker](https://github.com/thehanimo/pr-title-checker)
+2. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#17](https://github.com/PyDocTeur/fake-docs/issues/17) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+4. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
