@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/vpoulailleau/padpo/issues/54) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+1. 🗣 Commented on [#54](https://github.com/AFPy/padpo/issues/54) in [AFPy/padpo](https://github.com/AFPy/padpo)
 2. 🗣 Commented on [#54](https://github.com/vpoulailleau/padpo/issues/54) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
-3. 🗣 Commented on [#18](https://github.com/PyDocTeur/fake-docs/issues/18) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
-4. 🗣 Commented on [#1498](https://github.com/python/python-docs-fr/issues/1498) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#55](https://github.com/vpoulailleau/padpo/issues/55) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+3. 🗣 Commented on [#54](https://github.com/vpoulailleau/padpo/issues/54) in [vpoulailleau/padpo](https://github.com/vpoulailleau/padpo)
+4. 🗣 Commented on [#18](https://github.com/PyDocTeur/fake-docs/issues/18) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+5. 🗣 Commented on [#1498](https://github.com/python/python-docs-fr/issues/1498) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
