@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/dcolish/flask-markdown/issues/19) in [dcolish/flask-markdown](https://github.com/dcolish/flask-markdown)
-2. 🎉 Merged PR [#485](https://github.com/Seluj78/PyMatcha/pull/485) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
-3. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+1. ❗️ Opened issue [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+2. 🗣 Commented on [#19](https://github.com/dcolish/flask-markdown/issues/19) in [dcolish/flask-markdown](https://github.com/dcolish/flask-markdown)
+3. 🎉 Merged PR [#485](https://github.com/Seluj78/PyMatcha/pull/485) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
 4. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-5. 🗣 Commented on [#54](https://github.com/AFPy/padpo/issues/54) in [AFPy/padpo](https://github.com/AFPy/padpo)
+5. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
