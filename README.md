@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-2. ❗️ Opened issue [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-3. ❗️ Opened issue [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-4. 🗣 Commented on [#19](https://github.com/dcolish/flask-markdown/issues/19) in [dcolish/flask-markdown](https://github.com/dcolish/flask-markdown)
-5. 🎉 Merged PR [#485](https://github.com/Seluj78/PyMatcha/pull/485) in [Seluj78/PyMatcha](https://github.com/Seluj78/PyMatcha)
+1. ❗️ Closed issue [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+2. 🗣 Commented on [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+3. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+4. ❗️ Opened issue [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+5. ❗️ Opened issue [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
