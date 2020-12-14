@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
-2. 🎉 Merged PR [#54](https://github.com/AFPy/PyDocTeur/pull/54) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. ❗️ Closed issue [#50](https://github.com/AFPy/PyDocTeur/issues/50) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. ❗️ Closed issue [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-5. 🗣 Commented on [#209](https://github.com/aristocratos/bpytop/issues/209) in [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+1. 🗣 Commented on [#1500](https://github.com/python/python-docs-fr/issues/1500) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+3. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
+4. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
+5. 🎉 Merged PR [#54](https://github.com/AFPy/PyDocTeur/pull/54) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
