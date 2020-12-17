@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1500](https://github.com/python/python-docs-fr/issues/1500) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-3. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
-4. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
-5. 🎉 Merged PR [#54](https://github.com/AFPy/PyDocTeur/pull/54) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+1. 🗣 Commented on [#55](https://github.com/AFPy/PyDocTeur/issues/55) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🗣 Commented on [#55](https://github.com/AFPy/PyDocTeur/issues/55) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#1500](https://github.com/python/python-docs-fr/issues/1500) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+5. 🗣 Commented on [#14](https://github.com/AFPy/poutils/issues/14) in [AFPy/poutils](https://github.com/AFPy/poutils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
