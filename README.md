@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/42School/norminette/issues/2) in [42School/norminette](https://github.com/42School/norminette)
-2. 🗣 Commented on [#55](https://github.com/AFPy/PyDocTeur/issues/55) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#55](https://github.com/AFPy/PyDocTeur/issues/55) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#1500](https://github.com/python/python-docs-fr/issues/1500) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#10997](https://github.com/bigbluebutton/bigbluebutton/issues/10997) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+1. 🎉 Merged PR [#105](https://github.com/AFPy/Potodo/pull/105) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. 🗣 Commented on [#105](https://github.com/AFPy/Potodo/issues/105) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+3. ❗️ Opened issue [#106](https://github.com/AFPy/Potodo/issues/106) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+4. 🗣 Commented on [#105](https://github.com/AFPy/Potodo/issues/105) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+5. ❗️ Closed issue [#55](https://github.com/AFPy/PyDocTeur/issues/55) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
