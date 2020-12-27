@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AFPy/AfpyLogs/issues/3) in [AFPy/AfpyLogs](https://github.com/AFPy/AfpyLogs)
-2. 🗣 Commented on [#11](https://github.com/AFPy/poutils/issues/11) in [AFPy/poutils](https://github.com/AFPy/poutils)
-3. 💪 Opened PR [#107](https://github.com/AFPy/Potodo/pull/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. 🎉 Merged PR [#105](https://github.com/AFPy/Potodo/pull/105) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. 🗣 Commented on [#105](https://github.com/AFPy/Potodo/issues/105) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. 💪 Opened PR [#108](https://github.com/AFPy/Potodo/pull/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+3. 🗣 Commented on [#3](https://github.com/AFPy/AfpyLogs/issues/3) in [AFPy/AfpyLogs](https://github.com/AFPy/AfpyLogs)
+4. 🗣 Commented on [#11](https://github.com/AFPy/poutils/issues/11) in [AFPy/poutils](https://github.com/AFPy/poutils)
+5. 💪 Opened PR [#107](https://github.com/AFPy/Potodo/pull/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
