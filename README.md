@@ -42,10 +42,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/AFPy/Potodo/issues/9) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. 🗣 Commented on [#9](https://github.com/AFPy/Potodo/issues/9) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-3. ❗️ Closed issue [#12](https://github.com/AFPy/Potodo/issues/12) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. 🗣 Commented on [#12](https://github.com/AFPy/Potodo/issues/12) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#1798](https://github.com/PyGithub/PyGithub/issues/1798) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+2. 🗣 Commented on [#27](https://github.com/AFPy/PyDocTeur/issues/27) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#27](https://github.com/AFPy/PyDocTeur/issues/27) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. ❗️ Opened issue [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 5. 🗣 Commented on [#39](https://github.com/AFPy/Potodo/issues/39) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
