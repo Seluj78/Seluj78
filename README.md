@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/AFPy/PyDocTeur/pull/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-2. ❗️ Opened issue [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-3. ❗️ Closed issue [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-4. 🗣 Commented on [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-5. 🗣 Commented on [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+1. ❗️ Closed issue [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+2. 🗣 Commented on [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+3. 🗣 Commented on [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+4. 💪 Opened PR [#59](https://github.com/AFPy/PyDocTeur/pull/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. ❗️ Opened issue [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
