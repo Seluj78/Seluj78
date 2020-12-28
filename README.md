@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/PyDocTeur/fake-docs/issues/18) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+1. 🗣 Commented on [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 2. 🗣 Commented on [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-3. 🗣 Commented on [#1798](https://github.com/PyGithub/PyGithub/issues/1798) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-4. 🗣 Commented on [#27](https://github.com/AFPy/PyDocTeur/issues/27) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-5. 🗣 Commented on [#27](https://github.com/AFPy/PyDocTeur/issues/27) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#18](https://github.com/PyDocTeur/fake-docs/issues/18) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+4. 🗣 Commented on [#1803](https://github.com/PyGithub/PyGithub/issues/1803) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+5. 🗣 Commented on [#1798](https://github.com/PyGithub/PyGithub/issues/1798) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
