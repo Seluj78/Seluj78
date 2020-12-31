@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2073](https://github.com/flask-admin/flask-admin/issues/2073) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
-2. 🗣 Commented on [#2073](https://github.com/flask-admin/flask-admin/issues/2073) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
-3. ❗️ Opened issue [#2073](https://github.com/flask-admin/flask-admin/issues/2073) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
-4. ❗️ Closed issue [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-5. 🗣 Commented on [#1805](https://github.com/PyGithub/PyGithub/issues/1805) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+1. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+3. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+4. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+5. 🗣 Commented on [#59](https://github.com/AFPy/PyDocTeur/issues/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
