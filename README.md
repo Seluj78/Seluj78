@@ -46,7 +46,7 @@
 2. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 3. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 4. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. 🗣 Commented on [#59](https://github.com/AFPy/PyDocTeur/issues/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
