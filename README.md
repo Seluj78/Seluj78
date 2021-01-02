@@ -42,7 +42,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#110](https://github.com/AFPy/Potodo/issues/110) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 2. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 3. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 4. 🗣 Commented on [#108](https://github.com/AFPy/Potodo/issues/108) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
