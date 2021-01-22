@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-2. ❗️ Opened issue [#11191](https://github.com/bigbluebutton/bigbluebutton/issues/11191) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
-3. 🗣 Commented on [#389](https://github.com/NationalSecurityAgency/ghidra/issues/389) in [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-4. 💪 Opened PR [#7](https://github.com/42Paris/hall-voice/pull/7) in [42Paris/hall-voice](https://github.com/42Paris/hall-voice)
-5. 🗣 Commented on [#113](https://github.com/AFPy/Potodo/issues/113) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#59](https://github.com/AFPy/PyDocTeur/issues/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. ❌ Closed PR [#59](https://github.com/AFPy/PyDocTeur/pull/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+4. ❗️ Opened issue [#11191](https://github.com/bigbluebutton/bigbluebutton/issues/11191) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+5. 🗣 Commented on [#389](https://github.com/NationalSecurityAgency/ghidra/issues/389) in [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
