@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1513](https://github.com/python/python-docs-fr/issues/1513) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#59](https://github.com/AFPy/PyDocTeur/issues/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. ❌ Closed PR [#59](https://github.com/AFPy/PyDocTeur/pull/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-5. ❗️ Opened issue [#11191](https://github.com/bigbluebutton/bigbluebutton/issues/11191) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+1. 🗣 Commented on [#1514](https://github.com/python/python-docs-fr/issues/1514) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 🗣 Commented on [#1513](https://github.com/python/python-docs-fr/issues/1513) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 🗣 Commented on [#59](https://github.com/AFPy/PyDocTeur/issues/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. ❌ Closed PR [#59](https://github.com/AFPy/PyDocTeur/pull/59) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
