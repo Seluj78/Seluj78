@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1522](https://github.com/python/python-docs-fr/pull/1522) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 💪 Opened PR [#1521](https://github.com/python/python-docs-fr/pull/1521) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 💪 Opened PR [#1520](https://github.com/python/python-docs-fr/pull/1520) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 💪 Opened PR [#1519](https://github.com/python/python-docs-fr/pull/1519) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 💪 Opened PR [#1518](https://github.com/python/python-docs-fr/pull/1518) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+2. ❗️ Opened issue [#1528](https://github.com/python/python-docs-fr/issues/1528) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. ❗️ Opened issue [#1527](https://github.com/python/python-docs-fr/issues/1527) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. ❗️ Opened issue [#1526](https://github.com/python/python-docs-fr/issues/1526) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. ❗️ Opened issue [#1525](https://github.com/python/python-docs-fr/issues/1525) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
