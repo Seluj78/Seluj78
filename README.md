@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1521](https://github.com/python/python-docs-fr/pull/1521) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 💪 Opened PR [#1520](https://github.com/python/python-docs-fr/pull/1520) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 💪 Opened PR [#1519](https://github.com/python/python-docs-fr/pull/1519) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 💪 Opened PR [#1518](https://github.com/python/python-docs-fr/pull/1518) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 💪 Opened PR [#1517](https://github.com/python/python-docs-fr/pull/1517) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 💪 Opened PR [#1522](https://github.com/python/python-docs-fr/pull/1522) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#1521](https://github.com/python/python-docs-fr/pull/1521) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 💪 Opened PR [#1520](https://github.com/python/python-docs-fr/pull/1520) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 💪 Opened PR [#1519](https://github.com/python/python-docs-fr/pull/1519) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. 💪 Opened PR [#1518](https://github.com/python/python-docs-fr/pull/1518) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
