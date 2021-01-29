@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24376](https://github.com/python/cpython/pull/24376) in [python/cpython](https://github.com/python/cpython)
-2. 💪 Opened PR [#24371](https://github.com/python/cpython/pull/24371) in [python/cpython](https://github.com/python/cpython)
-3. 💪 Opened PR [#1529](https://github.com/python/python-docs-fr/pull/1529) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. ❗️ Opened issue [#43](https://github.com/JulienPalard/pogrep/issues/43) in [JulienPalard/pogrep](https://github.com/JulienPalard/pogrep)
-5. 🗣 Commented on [#60](https://github.com/AFPy/site/issues/60) in [AFPy/site](https://github.com/AFPy/site)
+1. 💪 Opened PR [#1530](https://github.com/python/python-docs-fr/pull/1530) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#24376](https://github.com/python/cpython/pull/24376) in [python/cpython](https://github.com/python/cpython)
+3. 💪 Opened PR [#24371](https://github.com/python/cpython/pull/24371) in [python/cpython](https://github.com/python/cpython)
+4. 💪 Opened PR [#1529](https://github.com/python/python-docs-fr/pull/1529) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. ❗️ Opened issue [#43](https://github.com/JulienPalard/pogrep/issues/43) in [JulienPalard/pogrep](https://github.com/JulienPalard/pogrep)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
