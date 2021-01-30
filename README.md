@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1531](https://github.com/python/python-docs-fr/pull/1531) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#1530](https://github.com/python/python-docs-fr/issues/1530) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. ❗️ Opened issue [#679](https://github.com/vslavik/poedit/issues/679) in [vslavik/poedit](https://github.com/vslavik/poedit)
-4. 🗣 Commented on [#1520](https://github.com/python/python-docs-fr/issues/1520) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#1510](https://github.com/python/python-docs-fr/issues/1510) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🗣 Commented on [#1510](https://github.com/python/python-docs-fr/issues/1510) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+2. 💪 Opened PR [#1531](https://github.com/python/python-docs-fr/pull/1531) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+3. 🗣 Commented on [#1530](https://github.com/python/python-docs-fr/issues/1530) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. ❗️ Opened issue [#679](https://github.com/vslavik/poedit/issues/679) in [vslavik/poedit](https://github.com/vslavik/poedit)
+5. 🗣 Commented on [#1520](https://github.com/python/python-docs-fr/issues/1520) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
