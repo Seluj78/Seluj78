@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Unusual-Organisation/backend/issues/5) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
-2. ❗️ Opened issue [#4](https://github.com/Unusual-Organisation/backend/issues/4) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
-3. ❗️ Opened issue [#3](https://github.com/Unusual-Organisation/backend/issues/3) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
-4. ❗️ Opened issue [#2](https://github.com/Unusual-Organisation/backend/issues/2) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
-5. ❗️ Opened issue [#1](https://github.com/Unusual-Organisation/backend/issues/1) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+1. ❗️ Opened issue [#287](https://github.com/socketio/socket.io-client-cpp/issues/287) in [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp)
+2. ❗️ Opened issue [#5](https://github.com/Unusual-Organisation/backend/issues/5) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+3. ❗️ Opened issue [#4](https://github.com/Unusual-Organisation/backend/issues/4) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+4. ❗️ Opened issue [#3](https://github.com/Unusual-Organisation/backend/issues/3) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+5. ❗️ Opened issue [#2](https://github.com/Unusual-Organisation/backend/issues/2) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
