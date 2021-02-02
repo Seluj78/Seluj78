@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1516](https://github.com/python/python-docs-fr/issues/1516) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 💪 Opened PR [#60](https://github.com/AFPy/PyDocTeur/pull/60) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. ❗️ Opened issue [#287](https://github.com/socketio/socket.io-client-cpp/issues/287) in [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp)
-4. ❗️ Opened issue [#5](https://github.com/Unusual-Organisation/backend/issues/5) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
-5. ❗️ Opened issue [#4](https://github.com/Unusual-Organisation/backend/issues/4) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+1. 🗣 Commented on [#58](https://github.com/AFPy/padpo/issues/58) in [AFPy/padpo](https://github.com/AFPy/padpo)
+2. 🎉 Merged PR [#15](https://github.com/AFPy/poutils/pull/15) in [AFPy/poutils](https://github.com/AFPy/poutils)
+3. 🗣 Commented on [#1516](https://github.com/python/python-docs-fr/issues/1516) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 💪 Opened PR [#60](https://github.com/AFPy/PyDocTeur/pull/60) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. ❗️ Opened issue [#287](https://github.com/socketio/socket.io-client-cpp/issues/287) in [socketio/socket.io-client-cpp](https://github.com/socketio/socket.io-client-cpp)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
