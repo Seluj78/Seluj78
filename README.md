@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/AFPy/Potodo/pull/113) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-2. ❗️ Closed issue [#106](https://github.com/AFPy/Potodo/issues/106) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-3. 🗣 Commented on [#113](https://github.com/AFPy/Potodo/issues/113) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-5. ❗️ Closed issue [#2](https://github.com/Unusual-Organisation/backend/issues/2) in [Unusual-Organisation/backend](https://github.com/Unusual-Organisation/backend)
+1. 🗣 Commented on [#111](https://github.com/AFPy/Potodo/issues/111) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. ❗️ Closed issue [#19](https://github.com/AFPy/PyDocTeur/issues/19) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. ❗️ Closed issue [#18](https://github.com/AFPy/PyDocTeur/issues/18) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. ❌ Closed PR [#56](https://github.com/AFPy/PyDocTeur/pull/56) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🎉 Merged PR [#57](https://github.com/AFPy/PyDocTeur/pull/57) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
