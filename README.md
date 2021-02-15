@@ -42,9 +42,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1439](https://github.com/python/python-docs-fr/pull/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#1439](https://github.com/python/python-docs-fr/issues/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🗣 Commented on [#1439](https://github.com/python/python-docs-fr/issues/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🗣 Commented on [#107](https://github.com/AFPy/Potodo/issues/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. 🎉 Merged PR [#107](https://github.com/AFPy/Potodo/pull/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+3. 🎉 Merged PR [#1439](https://github.com/python/python-docs-fr/pull/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 4. 🗣 Commented on [#1439](https://github.com/python/python-docs-fr/issues/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 5. 🗣 Commented on [#1439](https://github.com/python/python-docs-fr/issues/1439) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
