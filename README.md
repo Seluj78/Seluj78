@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1547](https://github.com/python/python-docs-fr/pull/1547) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-2. 🗣 Commented on [#61](https://github.com/AFPy/PyDocTeur/issues/61) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. ❗️ Closed issue [#61](https://github.com/AFPy/PyDocTeur/issues/61) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#107](https://github.com/AFPy/Potodo/issues/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-5. 🎉 Merged PR [#107](https://github.com/AFPy/Potodo/pull/107) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+2. ❗️ Opened issue [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+3. 💪 Opened PR [#1547](https://github.com/python/python-docs-fr/pull/1547) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🗣 Commented on [#61](https://github.com/AFPy/PyDocTeur/issues/61) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. ❗️ Closed issue [#61](https://github.com/AFPy/PyDocTeur/issues/61) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
