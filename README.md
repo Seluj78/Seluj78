@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+1. 🗣 Commented on [#17](https://github.com/IngoMeyer441/simple-term-menu/issues/17) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
 2. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-3. ❗️ Opened issue [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-4. 💪 Opened PR [#1547](https://github.com/python/python-docs-fr/pull/1547) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#61](https://github.com/AFPy/PyDocTeur/issues/61) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+4. ❗️ Opened issue [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+5. 💪 Opened PR [#1547](https://github.com/python/python-docs-fr/pull/1547) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
