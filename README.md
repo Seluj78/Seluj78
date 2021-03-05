@@ -42,10 +42,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-2. 💪 Opened PR [#24692](https://github.com/python/cpython/pull/24692) in [python/cpython](https://github.com/python/cpython)
-3. 🗣 Commented on [#17](https://github.com/IngoMeyer441/simple-term-menu/issues/17) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
-4. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+1. 🗣 Commented on [#115](https://github.com/AFPy/Potodo/issues/115) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
+3. 💪 Opened PR [#24692](https://github.com/python/cpython/pull/24692) in [python/cpython](https://github.com/python/cpython)
+4. 🗣 Commented on [#17](https://github.com/IngoMeyer441/simple-term-menu/issues/17) in [IngoMeyer441/simple-term-menu](https://github.com/IngoMeyer441/simple-term-menu)
 5. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 <!--END_SECTION:activity-->
 
