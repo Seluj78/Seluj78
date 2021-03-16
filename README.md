@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/42School/norminette/pull/74) in [42School/norminette](https://github.com/42School/norminette)
-2. 💪 Opened PR [#73](https://github.com/42School/norminette/pull/73) in [42School/norminette](https://github.com/42School/norminette)
-3. 🗣 Commented on [#115](https://github.com/AFPy/Potodo/issues/115) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
-4. 🗣 Commented on [#8932](https://github.com/sphinx-doc/sphinx/issues/8932) in [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
-5. 💪 Opened PR [#24692](https://github.com/python/cpython/pull/24692) in [python/cpython](https://github.com/python/cpython)
+1. ❗️ Closed issue [#62](https://github.com/AFPy/PyDocTeur/issues/62) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🎉 Merged PR [#63](https://github.com/AFPy/PyDocTeur/pull/63) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 💪 Opened PR [#74](https://github.com/42School/norminette/pull/74) in [42School/norminette](https://github.com/42School/norminette)
+4. 💪 Opened PR [#73](https://github.com/42School/norminette/pull/73) in [42School/norminette](https://github.com/42School/norminette)
+5. 🗣 Commented on [#115](https://github.com/AFPy/Potodo/issues/115) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
