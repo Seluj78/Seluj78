@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#62](https://github.com/AFPy/PyDocTeur/issues/62) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-2. 🎉 Merged PR [#63](https://github.com/AFPy/PyDocTeur/pull/63) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 💪 Opened PR [#74](https://github.com/42School/norminette/pull/74) in [42School/norminette](https://github.com/42School/norminette)
-4. 💪 Opened PR [#73](https://github.com/42School/norminette/pull/73) in [42School/norminette](https://github.com/42School/norminette)
-5. 🗣 Commented on [#115](https://github.com/AFPy/Potodo/issues/115) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+1. 🎉 Merged PR [#64](https://github.com/AFPy/PyDocTeur/pull/64) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🗣 Commented on [#13](https://github.com/AFPy/PyDocTeur/issues/13) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. ❗️ Closed issue [#62](https://github.com/AFPy/PyDocTeur/issues/62) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. 🎉 Merged PR [#63](https://github.com/AFPy/PyDocTeur/pull/63) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 💪 Opened PR [#74](https://github.com/42School/norminette/pull/74) in [42School/norminette](https://github.com/42School/norminette)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
