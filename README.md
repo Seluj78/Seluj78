@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+1. 🗣 Commented on [#1529](https://github.com/python/python-docs-fr/issues/1529) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 2. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 3. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 4. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-5. 🎉 Merged PR [#64](https://github.com/AFPy/PyDocTeur/pull/64) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
