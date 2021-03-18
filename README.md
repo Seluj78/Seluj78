@@ -44,9 +44,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
 2. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
-3. 🎉 Merged PR [#64](https://github.com/AFPy/PyDocTeur/pull/64) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#13](https://github.com/AFPy/PyDocTeur/issues/13) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-5. ❗️ Closed issue [#62](https://github.com/AFPy/PyDocTeur/issues/62) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 🗣 Commented on [#58](https://github.com/AFPy/site/issues/58) in [AFPy/site](https://github.com/AFPy/site)
+4. 🎉 Merged PR [#64](https://github.com/AFPy/PyDocTeur/pull/64) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#13](https://github.com/AFPy/PyDocTeur/issues/13) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
