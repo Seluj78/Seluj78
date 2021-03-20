@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. 🗣 Commented on [#60](https://github.com/AFPy/padpo/issues/60) in [AFPy/padpo](https://github.com/AFPy/padpo)
 2. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 3. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 4. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#1529](https://github.com/python/python-docs-fr/issues/1529) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+5. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
