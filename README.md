@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/AFPy/padpo/issues/60) in [AFPy/padpo](https://github.com/AFPy/padpo)
-2. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-3. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-4. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
-5. 🗣 Commented on [#1552](https://github.com/python/python-docs-fr/issues/1552) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+1. ❗️ Opened issue [#467](https://github.com/Abdur-rahmaanJ/shopyo/issues/467) in [Abdur-rahmaanJ/shopyo](https://github.com/Abdur-rahmaanJ/shopyo)
+2. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
+3. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
+4. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
+5. 🗣 Commented on [#60](https://github.com/AFPy/padpo/issues/60) in [AFPy/padpo](https://github.com/AFPy/padpo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
