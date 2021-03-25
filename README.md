@@ -42,9 +42,9 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#699](https://github.com/mongomock/mongomock/issues/699) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
-2. ❗️ Opened issue [#467](https://github.com/Abdur-rahmaanJ/shopyo/issues/467) in [Abdur-rahmaanJ/shopyo](https://github.com/Abdur-rahmaanJ/shopyo)
-3. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
+1. 🗣 Commented on [#118](https://github.com/AFPy/Potodo/issues/118) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+2. ❗️ Opened issue [#699](https://github.com/mongomock/mongomock/issues/699) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
+3. ❗️ Opened issue [#467](https://github.com/Abdur-rahmaanJ/shopyo/issues/467) in [Abdur-rahmaanJ/shopyo](https://github.com/Abdur-rahmaanJ/shopyo)
 4. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
 5. 🗣 Commented on [#17](https://github.com/AFPy/infra/issues/17) in [AFPy/infra](https://github.com/AFPy/infra)
 <!--END_SECTION:activity-->
