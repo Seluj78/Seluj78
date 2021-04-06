@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
-2. 🗣 Commented on [#570](https://github.com/mongomock/mongomock/issues/570) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
-3. 🗣 Commented on [#570](https://github.com/mongomock/mongomock/issues/570) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
-4. 🗣 Commented on [#699](https://github.com/mongomock/mongomock/issues/699) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
-5. ❗️ Opened issue [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
+2. 🗣 Commented on [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
+3. 🗣 Commented on [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
+4. 🗣 Commented on [#570](https://github.com/mongomock/mongomock/issues/570) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
+5. 🗣 Commented on [#570](https://github.com/mongomock/mongomock/issues/570) in [mongomock/mongomock](https://github.com/mongomock/mongomock)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
