@@ -6,7 +6,7 @@
 
 ## I'm a Developper, DJ and Scout Leader
 
-- 🔭 I’m currently working on a [dating website][matcha] website for my school!
+- 🔭 I’m currently working as a freelance Python Backend developper for [Aplines]
 - 🌱 I’m currently looking for more open source projects to contribute to/create more packages for people to use!
 - 👯 I’m looking to collaborate with more people on open source projects
 - 🥅 2021 Goals: Finish 42 and find some freelance jobs
@@ -63,6 +63,7 @@
 <br />
 <br />
 
+[aplines]: https://aplines.com/
 [website]: http://juleslasne.com
 [matcha]: https://github.com/seluj78/pymatcha
 [twitter]: https://twitter.com/seluj78
