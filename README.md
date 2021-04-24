@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/gmr/rabbitpy/pull/130) in [gmr/rabbitpy](https://github.com/gmr/rabbitpy)
-2. 🗣 Commented on [#454](https://github.com/pock/pock/issues/454) in [pock/pock](https://github.com/pock/pock)
-3. 🗣 Commented on [#463](https://github.com/pock/pock/issues/463) in [pock/pock](https://github.com/pock/pock)
-4. ❗️ Opened issue [#463](https://github.com/pock/pock/issues/463) in [pock/pock](https://github.com/pock/pock)
-5. 🗣 Commented on [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
+1. 🗣 Commented on [#66](https://github.com/AFPy/PyDocTeur/issues/66) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+2. 🗣 Commented on [#66](https://github.com/AFPy/PyDocTeur/issues/66) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+3. 💪 Opened PR [#1597](https://github.com/python/python-docs-fr/pull/1597) in [python/python-docs-fr](https://github.com/python/python-docs-fr)
+4. 🎉 Merged PR [#120](https://github.com/AFPy/Potodo/pull/120) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
+5. 🗣 Commented on [#120](https://github.com/AFPy/Potodo/issues/120) in [AFPy/Potodo](https://github.com/AFPy/Potodo)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
