@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/JulienPalard/po-language-server/issues/1) in [JulienPalard/po-language-server](https://github.com/JulienPalard/po-language-server)
-2. ❗️ Closed issue [#5](https://github.com/AFPy/PyDocTeur/issues/5) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#5](https://github.com/AFPy/PyDocTeur/issues/5) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#1784](https://github.com/PyGithub/PyGithub/issues/1784) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
-5. ❗️ Closed issue [#27](https://github.com/AFPy/PyDocTeur/issues/27) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+1. 🗣 Commented on [#454](https://github.com/pock/pock/issues/454) in [pock/pock](https://github.com/pock/pock)
+2. ❗️ Opened issue [#1](https://github.com/JulienPalard/po-language-server/issues/1) in [JulienPalard/po-language-server](https://github.com/JulienPalard/po-language-server)
+3. ❗️ Closed issue [#5](https://github.com/AFPy/PyDocTeur/issues/5) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. 🗣 Commented on [#5](https://github.com/AFPy/PyDocTeur/issues/5) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#1784](https://github.com/PyGithub/PyGithub/issues/1784) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
