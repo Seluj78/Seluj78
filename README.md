@@ -51,7 +51,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" alt="Seluj78's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seluj78&show_icons=true&hide_border=true" />
+  <img align="left" alt="Seluj78's Github Stats" src="https://github-readme-stats-delta-jade.vercel.app/api?username=Seluj78&show_icons=true&hide_border=true" />
 
 <br />
 <br />
