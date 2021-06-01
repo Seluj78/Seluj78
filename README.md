@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-2. 🎉 Merged PR [#69](https://github.com/AFPy/PyDocTeur/pull/69) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🎉 Merged PR [#71](https://github.com/AFPy/PyDocTeur/pull/71) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. ❗️ Closed issue [#70](https://github.com/AFPy/PyDocTeur/issues/70) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-5. 🗣 Commented on [#1898](https://github.com/falconry/falcon/issues/1898) in [falconry/falcon](https://github.com/falconry/falcon)
+1. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+2. ❗️ Opened issue [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+3. 🎉 Merged PR [#69](https://github.com/AFPy/PyDocTeur/pull/69) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+4. 🎉 Merged PR [#71](https://github.com/AFPy/PyDocTeur/pull/71) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. ❗️ Closed issue [#70](https://github.com/AFPy/PyDocTeur/issues/70) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
