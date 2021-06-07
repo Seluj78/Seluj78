@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-2. 🗣 Commented on [#73](https://github.com/AFPy/PyDocTeur/issues/73) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-3. 🗣 Commented on [#73](https://github.com/AFPy/PyDocTeur/issues/73) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
-4. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-5. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+2. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+3. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+4. 🗣 Commented on [#73](https://github.com/AFPy/PyDocTeur/issues/73) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
+5. 🗣 Commented on [#73](https://github.com/AFPy/PyDocTeur/issues/73) in [AFPy/PyDocTeur](https://github.com/AFPy/PyDocTeur)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
