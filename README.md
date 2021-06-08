@@ -42,8 +42,8 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-2. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+1. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+2. ❗️ Closed issue [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
 3. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
 4. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
 5. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
