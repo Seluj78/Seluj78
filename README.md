@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working as a freelance Python Backend developper for [Aplines]
 - 🌱 I’m currently looking for more open source projects to contribute to/create more packages for people to use!
+- 🌱 *Looking for a remote full time job starting in september*
 - 👯 I’m looking to collaborate with more people on open source projects
 - 🥅 2021 Goals: Finish 42 and find some freelance jobs
 - ⚡ Fun fact: My dream is to organize a music festival
