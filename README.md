@@ -43,11 +43,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#132](https://github.com/iamkroot/trakt-scrobbler/issues/132) in [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler)
-2. 🗣 Commented on [#17](https://github.com/aachurin/peewee_migrations/issues/17) in [aachurin/peewee_migrations](https://github.com/aachurin/peewee_migrations)
-3. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-4. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
-5. ❗️ Closed issue [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
+1. ❗️ Closed issue [#132](https://github.com/iamkroot/trakt-scrobbler/issues/132) in [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler)
+2. 🗣 Commented on [#132](https://github.com/iamkroot/trakt-scrobbler/issues/132) in [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler)
+3. ❗️ Opened issue [#132](https://github.com/iamkroot/trakt-scrobbler/issues/132) in [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler)
+4. 🗣 Commented on [#17](https://github.com/aachurin/peewee_migrations/issues/17) in [aachurin/peewee_migrations](https://github.com/aachurin/peewee_migrations)
+5. 🗣 Commented on [#172](https://github.com/asottile/reorder_python_imports/issues/172) in [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
