@@ -6,7 +6,7 @@
 
 ## I'm a Developper, DJ and Scout Leader
 
-- 🔭 I’m currently working as a freelance Python Backend developper for [Aplines]
+- 🔭 I’m currently working as a Python Backend developper for [Datascientest]
 - 🌱 I’m currently looking for more open source projects to contribute to/create more packages for people to use!
 - 🌱 *Looking for a remote full time job starting in september*
 - 👯 I’m looking to collaborate with more people on open source projects
@@ -64,7 +64,7 @@
 <br />
 <br />
 
-[aplines]: https://aplines.com/
+[Datascientest]: https://datascientest.com/
 [website]: http://juleslasne.com
 [matcha]: https://github.com/seluj78/pymatcha
 [twitter]: https://twitter.com/seluj78
