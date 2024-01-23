@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3469](https://github.com/shellhub-io/shellhub/issues/3469) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-2. ❗ Opened issue [#3467](https://github.com/shellhub-io/shellhub/issues/3467) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-3. 💪 Opened PR [#3466](https://github.com/shellhub-io/shellhub/pull/3466) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-4. ❗ Opened issue [#3465](https://github.com/shellhub-io/shellhub/issues/3465) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-5. 🗣 Commented on [#3464](https://github.com/shellhub-io/shellhub/issues/3464#issuecomment-1905867519) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+1. 🗣 Commented on [#3469](https://github.com/shellhub-io/shellhub/issues/3469#issuecomment-1906130335) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+2. ❗ Opened issue [#3469](https://github.com/shellhub-io/shellhub/issues/3469) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+3. ❗ Opened issue [#3467](https://github.com/shellhub-io/shellhub/issues/3467) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+4. 💪 Opened PR [#3466](https://github.com/shellhub-io/shellhub/pull/3466) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+5. ❗ Opened issue [#3465](https://github.com/shellhub-io/shellhub/issues/3465) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
