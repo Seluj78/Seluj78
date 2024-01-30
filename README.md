@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3578](https://github.com/pypi/support/issues/3578) in [pypi/support](https://github.com/pypi/support)
-2. 🗣 Commented on [#3494](https://github.com/shellhub-io/shellhub/issues/3494#issuecomment-1915312319) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-3. 🗣 Commented on [#3490](https://github.com/shellhub-io/shellhub/issues/3490#issuecomment-1915308841) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-4. 🗣 Commented on [#3493](https://github.com/shellhub-io/shellhub/issues/3493#issuecomment-1915307742) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-5. 🗣 Commented on [#3494](https://github.com/shellhub-io/shellhub/issues/3494#issuecomment-1914915678) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+1. ❗ Opened issue [#3497](https://github.com/shellhub-io/shellhub/issues/3497) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+2. ❗ Opened issue [#3578](https://github.com/pypi/support/issues/3578) in [pypi/support](https://github.com/pypi/support)
+3. 🗣 Commented on [#3494](https://github.com/shellhub-io/shellhub/issues/3494#issuecomment-1915312319) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+4. 🗣 Commented on [#3490](https://github.com/shellhub-io/shellhub/issues/3490#issuecomment-1915308841) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+5. 🗣 Commented on [#3493](https://github.com/shellhub-io/shellhub/issues/3493#issuecomment-1915307742) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
