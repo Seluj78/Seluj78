@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3506](https://github.com/shellhub-io/shellhub/issues/3506) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-2. 🗣 Commented on [#3490](https://github.com/shellhub-io/shellhub/issues/3490#issuecomment-1920737193) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-3. 🗣 Commented on [#3498](https://github.com/shellhub-io/shellhub/issues/3498#issuecomment-1920735353) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-4. 🗣 Commented on [#3500](https://github.com/shellhub-io/shellhub/issues/3500#issuecomment-1920733843) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-5. ❗ Opened issue [#3504](https://github.com/shellhub-io/shellhub/issues/3504) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+1. 🗣 Commented on [#3506](https://github.com/shellhub-io/shellhub/issues/3506#issuecomment-1921285108) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+2. ❗ Opened issue [#3506](https://github.com/shellhub-io/shellhub/issues/3506) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+3. 🗣 Commented on [#3490](https://github.com/shellhub-io/shellhub/issues/3490#issuecomment-1920737193) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+4. 🗣 Commented on [#3498](https://github.com/shellhub-io/shellhub/issues/3498#issuecomment-1920735353) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+5. 🗣 Commented on [#3500](https://github.com/shellhub-io/shellhub/issues/3500#issuecomment-1920733843) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
