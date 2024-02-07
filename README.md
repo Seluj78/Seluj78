@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Seluj78/shellhub-python/pull/9#issuecomment-1931886122) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
-2. 🗣 Commented on [#9](https://github.com/Seluj78/shellhub-python/pull/9#issuecomment-1931867752) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
-3. 🗣 Commented on [#3522](https://github.com/shellhub-io/shellhub/issues/3522#issuecomment-1931860796) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-4. 🗣 Commented on [#3522](https://github.com/shellhub-io/shellhub/issues/3522#issuecomment-1931857446) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-5. 💪 Opened PR [#9](https://github.com/Seluj78/shellhub-python/pull/9) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
+1. ❗ Opened issue [#3523](https://github.com/shellhub-io/shellhub/issues/3523) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+2. 🗣 Commented on [#9](https://github.com/Seluj78/shellhub-python/pull/9#issuecomment-1931886122) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
+3. 🗣 Commented on [#9](https://github.com/Seluj78/shellhub-python/pull/9#issuecomment-1931867752) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
+4. 🗣 Commented on [#3522](https://github.com/shellhub-io/shellhub/issues/3522#issuecomment-1931860796) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+5. 🗣 Commented on [#3522](https://github.com/shellhub-io/shellhub/issues/3522#issuecomment-1931857446) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
