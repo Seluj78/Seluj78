@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3542](https://github.com/shellhub-io/shellhub/issues/3542#issuecomment-1938600116) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-2. 🔒 Closed issue [#3542](https://github.com/shellhub-io/shellhub/issues/3542) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-3. ❗ Opened issue [#3542](https://github.com/shellhub-io/shellhub/issues/3542) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-4. ❗ Opened issue [#3541](https://github.com/shellhub-io/shellhub/issues/3541) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
-5. 🗣 Commented on [#3527](https://github.com/shellhub-io/shellhub/issues/3527#issuecomment-1936682771) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+1. ❗ Opened issue [#89](https://github.com/sanders41/pytest-meilisearch/issues/89) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+2. ❗ Opened issue [#88](https://github.com/sanders41/pytest-meilisearch/issues/88) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+3. 🗣 Commented on [#3542](https://github.com/shellhub-io/shellhub/issues/3542#issuecomment-1938600116) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+4. 🔒 Closed issue [#3542](https://github.com/shellhub-io/shellhub/issues/3542) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
+5. ❗ Opened issue [#3542](https://github.com/shellhub-io/shellhub/issues/3542) in [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
