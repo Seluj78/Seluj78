@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/sanders41/pytest-meilisearch/issues/89#issuecomment-1942170407) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
-2. 💪 Opened PR [#90](https://github.com/sanders41/pytest-meilisearch/pull/90) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
-3. 🗣 Commented on [#89](https://github.com/sanders41/pytest-meilisearch/issues/89#issuecomment-1942087320) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
-4. ❗ Opened issue [#89](https://github.com/sanders41/pytest-meilisearch/issues/89) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
-5. ❗ Opened issue [#88](https://github.com/sanders41/pytest-meilisearch/issues/88) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+1. 🗣 Commented on [#279](https://github.com/orgoro/coverage/pull/279#issuecomment-1944433183) in [orgoro/coverage](https://github.com/orgoro/coverage)
+2. 🗣 Commented on [#89](https://github.com/sanders41/pytest-meilisearch/issues/89#issuecomment-1942170407) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+3. 💪 Opened PR [#90](https://github.com/sanders41/pytest-meilisearch/pull/90) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+4. 🗣 Commented on [#89](https://github.com/sanders41/pytest-meilisearch/issues/89#issuecomment-1942087320) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
+5. ❗ Opened issue [#89](https://github.com/sanders41/pytest-meilisearch/issues/89) in [sanders41/pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
