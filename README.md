@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
-2. 🗣 Commented on [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011#issuecomment-1946466592) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
-3. 🗣 Commented on [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011#issuecomment-1946449667) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
-4. ❗ Opened issue [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
-5. 🗣 Commented on [#279](https://github.com/orgoro/coverage/pull/279#issuecomment-1944433183) in [orgoro/coverage](https://github.com/orgoro/coverage)
+1. 🗣 Commented on [#3578](https://github.com/pypi/support/issues/3578#issuecomment-1948697163) in [pypi/support](https://github.com/pypi/support)
+2. 🔒 Closed issue [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+3. 🗣 Commented on [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011#issuecomment-1946466592) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+4. 🗣 Commented on [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011#issuecomment-1946449667) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+5. ❗ Opened issue [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
