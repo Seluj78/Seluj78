@@ -42,11 +42,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2767](https://github.com/gitbutlerapp/gitbutler/issues/2767) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#2748](https://github.com/gitbutlerapp/gitbutler/issues/2748#issuecomment-1949431869) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#3578](https://github.com/pypi/support/issues/3578#issuecomment-1948697163) in [pypi/support](https://github.com/pypi/support)
-4. 🔒 Closed issue [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
-5. 🗣 Commented on [#1011](https://github.com/pre-commit/pre-commit-hooks/issues/1011#issuecomment-1946466592) in [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+1. 🗣 Commented on [#2767](https://github.com/gitbutlerapp/gitbutler/issues/2767#issuecomment-1951440883) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#2767](https://github.com/gitbutlerapp/gitbutler/issues/2767#issuecomment-1951440653) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🔒 Closed issue [#2767](https://github.com/gitbutlerapp/gitbutler/issues/2767) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❗ Opened issue [#2767](https://github.com/gitbutlerapp/gitbutler/issues/2767) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#2748](https://github.com/gitbutlerapp/gitbutler/issues/2748#issuecomment-1949431869) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
