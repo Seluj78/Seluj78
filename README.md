@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working as a Senior Python Backend developper for [Datascientest]
 - 🌱 I’m currently looking for more open source projects to contribute to/create more packages/projects for people to use!
-- ⛷️ Would love to find someone to work on a ski resort manager game
-- ⚡ Fun fact: My dream is to organize a music festival
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.seluj78.vercel.app/api/spotify" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/user/21l72khltbnqrea4ho4uyddbi)
