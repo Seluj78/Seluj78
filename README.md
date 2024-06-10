@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#113](https://github.com/sphinx-contrib/sphinx-lint/issues/113) in [sphinx-contrib/sphinx-lint](https://github.com/sphinx-contrib/sphinx-lint)
-2. 💪 Opened PR [#6](https://github.com/Seluj78/flask-utils/pull/6) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 🎉 Merged PR [#5](https://github.com/Seluj78/flask-utils/pull/5) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 💪 Opened PR [#5](https://github.com/Seluj78/flask-utils/pull/5) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-5. 🎉 Merged PR [#4](https://github.com/Seluj78/flask-utils/pull/4) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🎉 Merged PR [#6](https://github.com/Seluj78/flask-utils/pull/6) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+2. ❗ Opened issue [#113](https://github.com/sphinx-contrib/sphinx-lint/issues/113) in [sphinx-contrib/sphinx-lint](https://github.com/sphinx-contrib/sphinx-lint)
+3. 💪 Opened PR [#6](https://github.com/Seluj78/flask-utils/pull/6) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 🎉 Merged PR [#5](https://github.com/Seluj78/flask-utils/pull/5) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. 💪 Opened PR [#5](https://github.com/Seluj78/flask-utils/pull/5) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
