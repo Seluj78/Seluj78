@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Seluj78/flask-utils/pull/24) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-2. 🗣 Commented on [#22](https://github.com/Seluj78/flask-utils/pull/22#issuecomment-2158849180) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 🗣 Commented on [#22](https://github.com/Seluj78/flask-utils/pull/22#issuecomment-2158816184) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 🗣 Commented on [#22](https://github.com/Seluj78/flask-utils/pull/22#issuecomment-2158528062) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-5. 🎉 Merged PR [#23](https://github.com/Seluj78/flask-utils/pull/23) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🗣 Commented on [#25](https://github.com/Seluj78/flask-utils/pull/25#issuecomment-2158899874) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+2. 🎉 Merged PR [#24](https://github.com/Seluj78/flask-utils/pull/24) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+3. 🗣 Commented on [#25](https://github.com/Seluj78/flask-utils/pull/25#issuecomment-2158896648) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 🔒 Closed issue [#9](https://github.com/Seluj78/flask-utils/issues/9) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. 🎉 Merged PR [#25](https://github.com/Seluj78/flask-utils/pull/25) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
