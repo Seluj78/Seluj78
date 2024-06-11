@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/Seluj78/flask-utils/pull/27#issuecomment-2160309022) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-2. 🔒 Closed issue [#15](https://github.com/Seluj78/flask-utils/issues/15) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 🎉 Merged PR [#27](https://github.com/Seluj78/flask-utils/pull/27) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 🗣 Commented on [#148](https://github.com/readthedocs/sphinx-notfound-page/issues/148#issuecomment-2158996143) in [readthedocs/sphinx-notfound-page](https://github.com/readthedocs/sphinx-notfound-page)
-5. 🎉 Merged PR [#26](https://github.com/Seluj78/flask-utils/pull/26) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🗣 Commented on [#10](https://github.com/Seluj78/flask-utils/issues/10#issuecomment-2161335722) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+2. 🔒 Closed issue [#16](https://github.com/Seluj78/flask-utils/issues/16) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+3. 🎉 Merged PR [#28](https://github.com/Seluj78/flask-utils/pull/28) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 🗣 Commented on [#27](https://github.com/Seluj78/flask-utils/pull/27#issuecomment-2160309022) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. 🔒 Closed issue [#15](https://github.com/Seluj78/flask-utils/issues/15) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
