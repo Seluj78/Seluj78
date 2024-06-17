@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165152044) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-2. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165082307) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165064573) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2164904221) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-5. 🗣 Commented on [#37](https://github.com/Seluj78/flask-utils/pull/37#issuecomment-2164836288) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2172313517) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+2. 🗣 Commented on [#31](https://github.com/Seluj78/flask-utils/issues/31#issuecomment-2172310903) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+3. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165152044) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165082307) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2165064573) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
