@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11431](https://github.com/readthedocs/readthedocs.org/issues/11431) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
-2. ❗ Opened issue [#4253](https://github.com/pypi/support/issues/4253) in [pypi/support](https://github.com/pypi/support)
-3. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2176122885) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2175702260) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-5. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2172313517) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🔒 Closed issue [#11431](https://github.com/readthedocs/readthedocs.org/issues/11431) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+2. 🗣 Commented on [#11431](https://github.com/readthedocs/readthedocs.org/issues/11431#issuecomment-2181026378) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+3. ❗ Opened issue [#11431](https://github.com/readthedocs/readthedocs.org/issues/11431) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)
+4. ❗ Opened issue [#4253](https://github.com/pypi/support/issues/4253) in [pypi/support](https://github.com/pypi/support)
+5. 🗣 Commented on [#30](https://github.com/Seluj78/flask-utils/issues/30#issuecomment-2176122885) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
