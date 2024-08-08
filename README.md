@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10986](https://github.com/traefik/traefik/issues/10986#issuecomment-2274059191) in [traefik/traefik](https://github.com/traefik/traefik)
-2. 🗣 Commented on [#716](https://github.com/kubenav/kubenav/issues/716#issuecomment-2274054849) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
-3. ❗ Opened issue [#716](https://github.com/kubenav/kubenav/issues/716) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
-4. ❗ Opened issue [#10986](https://github.com/traefik/traefik/issues/10986) in [traefik/traefik](https://github.com/traefik/traefik)
-5. 🗣 Commented on [#29706](https://github.com/grpc/grpc/issues/29706#issuecomment-2272861354) in [grpc/grpc](https://github.com/grpc/grpc)
+1. 🗣 Commented on [#716](https://github.com/kubenav/kubenav/issues/716#issuecomment-2275398534) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
+2. 🗣 Commented on [#10986](https://github.com/traefik/traefik/issues/10986#issuecomment-2274059191) in [traefik/traefik](https://github.com/traefik/traefik)
+3. 🗣 Commented on [#716](https://github.com/kubenav/kubenav/issues/716#issuecomment-2274054849) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
+4. ❗ Opened issue [#716](https://github.com/kubenav/kubenav/issues/716) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
+5. ❗ Opened issue [#10986](https://github.com/traefik/traefik/issues/10986) in [traefik/traefik](https://github.com/traefik/traefik)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
