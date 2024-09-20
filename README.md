@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#38](https://github.com/Seluj78/flask-utils/pull/38) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-2. 🎉 Merged PR [#43](https://github.com/Seluj78/flask-utils/pull/43) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 💪 Opened PR [#43](https://github.com/Seluj78/flask-utils/pull/43) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2361800858) in [pypi/support](https://github.com/pypi/support)
-5. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2361799532) in [pypi/support](https://github.com/pypi/support)
+1. 💪 Opened PR [#44](https://github.com/Seluj78/flask-utils/pull/44) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+2. ❌ Closed PR [#38](https://github.com/Seluj78/flask-utils/pull/38) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+3. 🎉 Merged PR [#43](https://github.com/Seluj78/flask-utils/pull/43) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 💪 Opened PR [#43](https://github.com/Seluj78/flask-utils/pull/43) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2361800858) in [pypi/support](https://github.com/pypi/support)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
