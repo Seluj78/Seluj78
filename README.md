@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/Seluj78/flask-utils/issues/45) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-2. 🎉 Merged PR [#49](https://github.com/Seluj78/flask-utils/pull/49) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-3. 💪 Opened PR [#49](https://github.com/Seluj78/flask-utils/pull/49) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-4. ❗ Opened issue [#48](https://github.com/Seluj78/flask-utils/issues/48) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
-5. ❗ Opened issue [#47](https://github.com/Seluj78/flask-utils/issues/47) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+1. 🗣 Commented on [#8](https://github.com/extinctsion/neuralNetworkScratch/issues/8#issuecomment-2366893097) in [extinctsion/neuralNetworkScratch](https://github.com/extinctsion/neuralNetworkScratch)
+2. 🔒 Closed issue [#45](https://github.com/Seluj78/flask-utils/issues/45) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+3. 🎉 Merged PR [#49](https://github.com/Seluj78/flask-utils/pull/49) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+4. 💪 Opened PR [#49](https://github.com/Seluj78/flask-utils/pull/49) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
+5. ❗ Opened issue [#48](https://github.com/Seluj78/flask-utils/issues/48) in [Seluj78/flask-utils](https://github.com/Seluj78/flask-utils)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
