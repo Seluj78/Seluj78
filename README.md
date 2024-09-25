@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/Seluj78/juleslasne/pull/17) in [Seluj78/juleslasne](https://github.com/Seluj78/juleslasne)
-2. ❌ Closed PR [#15](https://github.com/MikeDacre/careful_rm/pull/15) in [MikeDacre/careful_rm](https://github.com/MikeDacre/careful_rm)
-3. ❌ Closed PR [#1782](https://github.com/pallets-eco/flask-admin/pull/1782) in [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin)
-4. ❌ Closed PR [#2](https://github.com/Newky/github-pull-request/pull/2) in [Newky/github-pull-request](https://github.com/Newky/github-pull-request)
-5. ❌ Closed PR [#15](https://github.com/PyDocTeur/fake-docs/pull/15) in [PyDocTeur/fake-docs](https://github.com/PyDocTeur/fake-docs)
+1. 🗣 Commented on [#200](https://github.com/FactoryBoy/factory_boy/issues/200#issuecomment-2373592441) in [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy)
+2. ❌ Closed PR [#17](https://github.com/Seluj78/juleslasne/pull/17) in [Seluj78/juleslasne](https://github.com/Seluj78/juleslasne)
+3. ❌ Closed PR [#15](https://github.com/MikeDacre/careful_rm/pull/15) in [MikeDacre/careful_rm](https://github.com/MikeDacre/careful_rm)
+4. ❌ Closed PR [#1782](https://github.com/pallets-eco/flask-admin/pull/1782) in [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin)
+5. ❌ Closed PR [#2](https://github.com/Newky/github-pull-request/pull/2) in [Newky/github-pull-request](https://github.com/Newky/github-pull-request)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
