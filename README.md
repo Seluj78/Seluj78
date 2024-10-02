@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2932](https://github.com/coleifer/peewee/issues/2932#issuecomment-2374814937) in [coleifer/peewee](https://github.com/coleifer/peewee)
-2. 🗣 Commented on [#200](https://github.com/FactoryBoy/factory_boy/issues/200#issuecomment-2373592441) in [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy)
-3. ❌ Closed PR [#17](https://github.com/Seluj78/juleslasne/pull/17) in [Seluj78/juleslasne](https://github.com/Seluj78/juleslasne)
-4. ❌ Closed PR [#15](https://github.com/MikeDacre/careful_rm/pull/15) in [MikeDacre/careful_rm](https://github.com/MikeDacre/careful_rm)
-5. ❌ Closed PR [#1782](https://github.com/pallets-eco/flask-admin/pull/1782) in [pallets-eco/flask-admin](https://github.com/pallets-eco/flask-admin)
+1. ❗ Opened issue [#53](https://github.com/k4black/fastapi-jwt/issues/53) in [k4black/fastapi-jwt](https://github.com/k4black/fastapi-jwt)
+2. 🗣 Commented on [#2932](https://github.com/coleifer/peewee/issues/2932#issuecomment-2374814937) in [coleifer/peewee](https://github.com/coleifer/peewee)
+3. 🗣 Commented on [#200](https://github.com/FactoryBoy/factory_boy/issues/200#issuecomment-2373592441) in [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy)
+4. ❌ Closed PR [#17](https://github.com/Seluj78/juleslasne/pull/17) in [Seluj78/juleslasne](https://github.com/Seluj78/juleslasne)
+5. ❌ Closed PR [#15](https://github.com/MikeDacre/careful_rm/pull/15) in [MikeDacre/careful_rm](https://github.com/MikeDacre/careful_rm)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
