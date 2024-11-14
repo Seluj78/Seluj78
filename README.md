@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2456638769) in [jina-ai/serve](https://github.com/jina-ai/serve)
-2. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2454439017) in [jina-ai/serve](https://github.com/jina-ai/serve)
-3. 🗣 Commented on [#53](https://github.com/k4black/fastapi-jwt/issues/53#issuecomment-2388175975) in [k4black/fastapi-jwt](https://github.com/k4black/fastapi-jwt)
-4. ❗ Opened issue [#53](https://github.com/k4black/fastapi-jwt/issues/53) in [k4black/fastapi-jwt](https://github.com/k4black/fastapi-jwt)
-5. 🗣 Commented on [#2932](https://github.com/coleifer/peewee/issues/2932#issuecomment-2374814937) in [coleifer/peewee](https://github.com/coleifer/peewee)
+1. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2475856016) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+2. ❗ Opened issue [#6741](https://github.com/BerriAI/litellm/issues/6741) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+3. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2456638769) in [jina-ai/serve](https://github.com/jina-ai/serve)
+4. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2454439017) in [jina-ai/serve](https://github.com/jina-ai/serve)
+5. 🗣 Commented on [#53](https://github.com/k4black/fastapi-jwt/issues/53#issuecomment-2388175975) in [k4black/fastapi-jwt](https://github.com/k4black/fastapi-jwt)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
