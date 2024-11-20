@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Seluj78/edusign/pull/6) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
-2. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2478111787) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-3. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2477351851) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-4. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2475856016) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-5. ❗ Opened issue [#6741](https://github.com/BerriAI/litellm/issues/6741) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. ❗ Opened issue [#6813](https://github.com/BerriAI/litellm/issues/6813) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+2. 🎉 Merged PR [#6](https://github.com/Seluj78/edusign/pull/6) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
+3. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2478111787) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+4. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2477351851) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+5. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2475856016) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
