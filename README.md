@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❗ Opened issue [#6813](https://github.com/BerriAI/litellm/issues/6813) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-3. 🎉 Merged PR [#6](https://github.com/Seluj78/edusign/pull/6) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
-4. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2478111787) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-5. 🗣 Commented on [#6741](https://github.com/BerriAI/litellm/issues/6741#issuecomment-2477351851) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. 🗣 Commented on [#9671](https://github.com/astral-sh/uv/issues/9671#issuecomment-2523312507) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 🔒 Closed issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ❗ Opened issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. ❗ Opened issue [#6813](https://github.com/BerriAI/litellm/issues/6813) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+5. 🎉 Merged PR [#6](https://github.com/Seluj78/edusign/pull/6) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
