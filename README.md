@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9671](https://github.com/astral-sh/uv/issues/9671#issuecomment-2523409491) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. 🗣 Commented on [#9671](https://github.com/astral-sh/uv/issues/9671#issuecomment-2523312507) in [astral-sh/uv](https://github.com/astral-sh/uv)
-3. 🔒 Closed issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
-4. ❗ Opened issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
-5. ❗ Opened issue [#6813](https://github.com/BerriAI/litellm/issues/6813) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. 🗣 Commented on [#637](https://github.com/slimtoolkit/slim/issues/637#issuecomment-2535614019) in [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
+2. 🗣 Commented on [#646](https://github.com/slimtoolkit/slim/issues/646#issuecomment-2535613858) in [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
+3. 🗣 Commented on [#9671](https://github.com/astral-sh/uv/issues/9671#issuecomment-2523409491) in [astral-sh/uv](https://github.com/astral-sh/uv)
+4. 🗣 Commented on [#9671](https://github.com/astral-sh/uv/issues/9671#issuecomment-2523312507) in [astral-sh/uv](https://github.com/astral-sh/uv)
+5. 🔒 Closed issue [#9671](https://github.com/astral-sh/uv/issues/9671) in [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
