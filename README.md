@@ -40,7 +40,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#716](https://github.com/kubenav/kubenav/issues/716#issuecomment-2577965794) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
+1. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2647182007) in [pypi/support](https://github.com/pypi/support)
 2. 🔒 Closed issue [#716](https://github.com/kubenav/kubenav/issues/716) in [kubenav/kubenav](https://github.com/kubenav/kubenav)
 3. 🗣 Commented on [#7828](https://github.com/dependabot/dependabot-core/issues/7828#issuecomment-2577962989) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
 4. ❗ Opened issue [#87](https://github.com/mintoolkit/mint/issues/87) in [mintoolkit/mint](https://github.com/mintoolkit/mint)
