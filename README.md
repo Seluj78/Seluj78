@@ -40,10 +40,10 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2694967594) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
-2. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2664798596) in [jina-ai/serve](https://github.com/jina-ai/serve)
-3. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2647182007) in [pypi/support](https://github.com/pypi/support)
-4. ❗ Opened issue [#87](https://github.com/mintoolkit/mint/issues/87) in [mintoolkit/mint](https://github.com/mintoolkit/mint)
+1. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2695050794) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
+2. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2694967594) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
+3. 🗣 Commented on [#6086](https://github.com/jina-ai/serve/issues/6086#issuecomment-2664798596) in [jina-ai/serve](https://github.com/jina-ai/serve)
+4. 🗣 Commented on [#4253](https://github.com/pypi/support/issues/4253#issuecomment-2647182007) in [pypi/support](https://github.com/pypi/support)
 5. 🗣 Commented on [#637](https://github.com/slimtoolkit/slim/issues/637#issuecomment-2535614019) in [slimtoolkit/slim](https://github.com/slimtoolkit/slim)
 <!--END_SECTION:activity-->
 
