@@ -7,7 +7,7 @@
 
 ## I'm a Developper, DJ and Scout Leader
 
-- 🔭 I’m currently working as a Senior Python Backend developper for [Datascientest]
+- 🔭 I’m currently working as a Senior Python Backend developper for [Getvocal.ai]
 - 🌱 I’m currently looking for more open source projects to contribute to/create more packages/projects for people to use!
 
 ### Spotify Playing 🎧
