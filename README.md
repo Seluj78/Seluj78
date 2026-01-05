@@ -40,7 +40,7 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2219](https://github.com/redis/redis-py/issues/2219#issuecomment-3605332405) in [redis/redis-py](https://github.com/redis/redis-py)
+1. 🗣 Commented on [#30](https://github.com/ygg-api/ygg-api/issues/30#issuecomment-3709774009) in [ygg-api/ygg-api](https://github.com/ygg-api/ygg-api)
 2. 🗣 Commented on [#17771](https://github.com/python/mypy/pull/17771#issuecomment-3018526465) in [python/mypy](https://github.com/python/mypy)
 3. 🗣 Commented on [#7999](https://github.com/activepieces/activepieces/issues/7999#issuecomment-2949363573) in [activepieces/activepieces](https://github.com/activepieces/activepieces)
 4. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2711846228) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
