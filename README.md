@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/ygg-api/ygg-api/issues/30#issuecomment-3709774009) in [ygg-api/ygg-api](https://github.com/ygg-api/ygg-api)
-2. 🗣 Commented on [#17771](https://github.com/python/mypy/pull/17771#issuecomment-3018526465) in [python/mypy](https://github.com/python/mypy)
-3. 🗣 Commented on [#7999](https://github.com/activepieces/activepieces/issues/7999#issuecomment-2949363573) in [activepieces/activepieces](https://github.com/activepieces/activepieces)
-4. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2711846228) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
-5. 🗣 Commented on [#63](https://github.com/fastapi/sqlmodel/issues/63#issuecomment-2706153138) in [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel)
+1. 🗣 Commented on [#731](https://github.com/Prowlarr/Indexers/issues/731#issuecomment-3710435661) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+2. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+3. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+4. ❗ Opened issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+5. 🗣 Commented on [#30](https://github.com/ygg-api/ygg-api/issues/30#issuecomment-3709774009) in [ygg-api/ygg-api](https://github.com/ygg-api/ygg-api)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
