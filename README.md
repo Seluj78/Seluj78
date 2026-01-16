@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#731](https://github.com/Prowlarr/Indexers/issues/731#issuecomment-3710435661) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
-2. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+1. 🗣 Commented on [#9984](https://github.com/gitbutlerapp/gitbutler/issues/9984#issuecomment-3758793813) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#731](https://github.com/Prowlarr/Indexers/issues/731#issuecomment-3710435661) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
 3. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
-4. ❗ Opened issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
-5. 🗣 Commented on [#30](https://github.com/ygg-api/ygg-api/issues/30#issuecomment-3709774009) in [ygg-api/ygg-api](https://github.com/ygg-api/ygg-api)
+4. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+5. ❗ Opened issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
