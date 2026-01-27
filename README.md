@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/withceleste/celeste-python/pull/121) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
-2. 💪 Opened PR [#120](https://github.com/withceleste/celeste-python/pull/120) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
-3. 🗣 Commented on [#9984](https://github.com/gitbutlerapp/gitbutler/issues/9984#issuecomment-3758793813) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#731](https://github.com/Prowlarr/Indexers/issues/731#issuecomment-3710435661) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
-5. ℹ️ Labeled issue [#731](https://github.com/Prowlarr/Indexers/issues/731) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
+1. 💪 Opened PR [#122](https://github.com/withceleste/celeste-python/pull/122) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
+2. 💪 Opened PR [#121](https://github.com/withceleste/celeste-python/pull/121) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
+3. 💪 Opened PR [#120](https://github.com/withceleste/celeste-python/pull/120) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
+4. 🗣 Commented on [#9984](https://github.com/gitbutlerapp/gitbutler/issues/9984#issuecomment-3758793813) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#731](https://github.com/Prowlarr/Indexers/issues/731#issuecomment-3710435661) in [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
