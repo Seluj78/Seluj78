@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090#issuecomment-3823510668) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090#issuecomment-3823123474) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❌ Closed PR [#122](https://github.com/withceleste/celeste-python/pull/122) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
-4. 🗣 Commented on [#122](https://github.com/withceleste/celeste-python/pull/122#issuecomment-3823046604) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
-5. ℹ️ Labeled issue [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#12088](https://github.com/gitbutlerapp/gitbutler/issues/12088#issuecomment-3823682957) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090#issuecomment-3823672752) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090#issuecomment-3823510668) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#12090](https://github.com/gitbutlerapp/gitbutler/issues/12090#issuecomment-3823123474) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❌ Closed PR [#122](https://github.com/withceleste/celeste-python/pull/122) in [withceleste/celeste-python](https://github.com/withceleste/celeste-python)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
