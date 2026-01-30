@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3822226212) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5443](https://github.com/pydantic/pydantic/issues/5443#issuecomment-3819223335) in [pydantic/pydantic](https://github.com/pydantic/pydantic)
-3. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3818526477) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3818510814) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ℹ️ Labeled issue [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3822262897) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3822226212) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#5443](https://github.com/pydantic/pydantic/issues/5443#issuecomment-3819223335) in [pydantic/pydantic](https://github.com/pydantic/pydantic)
+4. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3818526477) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3818510814) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
