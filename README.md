@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12088](https://github.com/gitbutlerapp/gitbutler/issues/12088#issuecomment-3836777025) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#12088](https://github.com/gitbutlerapp/gitbutler/issues/12088#issuecomment-3836776292) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3836771186) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ℹ️ Labeled issue [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❗ Opened issue [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3839541553) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3839486545) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#12088](https://github.com/gitbutlerapp/gitbutler/issues/12088#issuecomment-3836777025) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#12088](https://github.com/gitbutlerapp/gitbutler/issues/12088#issuecomment-3836776292) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#12078](https://github.com/gitbutlerapp/gitbutler/issues/12078#issuecomment-3836771186) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
