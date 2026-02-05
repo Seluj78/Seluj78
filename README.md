@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3845756934) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3842460741) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3842280412) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3840698643) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3839541553) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3851401566) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3845756934) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3842460741) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3842280412) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#12144](https://github.com/gitbutlerapp/gitbutler/issues/12144#issuecomment-3840698643) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
