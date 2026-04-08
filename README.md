@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/PeonPing/peon-ping/issues/175#issuecomment-4196779646) in [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
-2. ❌ Closed PR [#1](https://github.com/Seluj78/ski-resort-tycoon/pull/1) in [Seluj78/ski-resort-tycoon](https://github.com/Seluj78/ski-resort-tycoon)
-3. ❌ Closed PR [#4](https://github.com/Seluj78/edusign/pull/4) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
-4. 🗣 Commented on [#8644](https://github.com/activepieces/activepieces/issues/8644#issuecomment-4025744910) in [activepieces/activepieces](https://github.com/activepieces/activepieces)
-5. 🗣 Commented on [#175](https://github.com/PeonPing/peon-ping/issues/175#issuecomment-3972152127) in [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
+1. ❗ Opened issue [#77](https://github.com/ntanis-dev/essentials-for-spotify/issues/77) in [ntanis-dev/essentials-for-spotify](https://github.com/ntanis-dev/essentials-for-spotify)
+2. 🗣 Commented on [#175](https://github.com/PeonPing/peon-ping/issues/175#issuecomment-4196779646) in [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
+3. ❌ Closed PR [#1](https://github.com/Seluj78/ski-resort-tycoon/pull/1) in [Seluj78/ski-resort-tycoon](https://github.com/Seluj78/ski-resort-tycoon)
+4. ❌ Closed PR [#4](https://github.com/Seluj78/edusign/pull/4) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
+5. 🗣 Commented on [#8644](https://github.com/activepieces/activepieces/issues/8644#issuecomment-4025744910) in [activepieces/activepieces](https://github.com/activepieces/activepieces)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
