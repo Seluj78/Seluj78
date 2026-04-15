@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2910](https://github.com/manaflow-ai/cmux/issues/2910) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-2. ❗ Opened issue [#2910](https://github.com/manaflow-ai/cmux/issues/2910) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-3. 🗣 Commented on [#2823](https://github.com/manaflow-ai/cmux/issues/2823#issuecomment-4231347935) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-4. ❗ Opened issue [#77](https://github.com/ntanis-dev/essentials-for-spotify/issues/77) in [ntanis-dev/essentials-for-spotify](https://github.com/ntanis-dev/essentials-for-spotify)
-5. 🗣 Commented on [#175](https://github.com/PeonPing/peon-ping/issues/175#issuecomment-4196779646) in [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)
+1. ℹ️ Labeled issue [#2921](https://github.com/manaflow-ai/cmux/issues/2921) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+2. ❗ Opened issue [#2921](https://github.com/manaflow-ai/cmux/issues/2921) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+3. ℹ️ Labeled issue [#2910](https://github.com/manaflow-ai/cmux/issues/2910) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+4. ❗ Opened issue [#2910](https://github.com/manaflow-ai/cmux/issues/2910) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+5. 🗣 Commented on [#2823](https://github.com/manaflow-ai/cmux/issues/2823#issuecomment-4231347935) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
