@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Seluj78/ski-resort-tycoon/pull/2) in [Seluj78/ski-resort-tycoon](https://github.com/Seluj78/ski-resort-tycoon)
-2. ❌ Closed PR [#11](https://github.com/Seluj78/shellhub-python/pull/11) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
-3. ❌ Closed PR [#7](https://github.com/Seluj78/edusign/pull/7) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
-4. 🗣 Commented on [#1126](https://github.com/aio-libs/aiokafka/issues/1126#issuecomment-4312517768) in [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
-5. ❗ Opened issue [#1](https://github.com/getvocal/activepieces/issues/1) in [getvocal/activepieces](https://github.com/getvocal/activepieces)
+1. 🗣 Commented on [#3547](https://github.com/manaflow-ai/cmux/issues/3547#issuecomment-4380715233) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+2. ❌ Closed PR [#2](https://github.com/Seluj78/ski-resort-tycoon/pull/2) in [Seluj78/ski-resort-tycoon](https://github.com/Seluj78/ski-resort-tycoon)
+3. ❌ Closed PR [#11](https://github.com/Seluj78/shellhub-python/pull/11) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
+4. ❌ Closed PR [#7](https://github.com/Seluj78/edusign/pull/7) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
+5. 🗣 Commented on [#1126](https://github.com/aio-libs/aiokafka/issues/1126#issuecomment-4312517768) in [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
