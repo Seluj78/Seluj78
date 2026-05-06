@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#161](https://github.com/raine/workmux/issues/161) in [raine/workmux](https://github.com/raine/workmux)
-2. ❗ Opened issue [#917](https://github.com/njbrake/agent-of-empires/issues/917) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-3. ❗ Opened issue [#448](https://github.com/cline/kanban/issues/448) in [cline/kanban](https://github.com/cline/kanban)
-4. ❗ Opened issue [#104](https://github.com/fynnfluegge/agtx/issues/104) in [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
-5. 🗣 Commented on [#3547](https://github.com/manaflow-ai/cmux/issues/3547#issuecomment-4380715233) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+1. 🗣 Commented on [#161](https://github.com/raine/workmux/issues/161#issuecomment-4387102287) in [raine/workmux](https://github.com/raine/workmux)
+2. ❗ Opened issue [#161](https://github.com/raine/workmux/issues/161) in [raine/workmux](https://github.com/raine/workmux)
+3. ❗ Opened issue [#917](https://github.com/njbrake/agent-of-empires/issues/917) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+4. ❗ Opened issue [#448](https://github.com/cline/kanban/issues/448) in [cline/kanban](https://github.com/cline/kanban)
+5. ❗ Opened issue [#104](https://github.com/fynnfluegge/agtx/issues/104) in [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
