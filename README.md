@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3547](https://github.com/manaflow-ai/cmux/issues/3547#issuecomment-4380715233) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
-2. ❌ Closed PR [#2](https://github.com/Seluj78/ski-resort-tycoon/pull/2) in [Seluj78/ski-resort-tycoon](https://github.com/Seluj78/ski-resort-tycoon)
-3. ❌ Closed PR [#11](https://github.com/Seluj78/shellhub-python/pull/11) in [Seluj78/shellhub-python](https://github.com/Seluj78/shellhub-python)
-4. ❌ Closed PR [#7](https://github.com/Seluj78/edusign/pull/7) in [Seluj78/edusign](https://github.com/Seluj78/edusign)
-5. 🗣 Commented on [#1126](https://github.com/aio-libs/aiokafka/issues/1126#issuecomment-4312517768) in [aio-libs/aiokafka](https://github.com/aio-libs/aiokafka)
+1. ❗ Opened issue [#161](https://github.com/raine/workmux/issues/161) in [raine/workmux](https://github.com/raine/workmux)
+2. ❗ Opened issue [#917](https://github.com/njbrake/agent-of-empires/issues/917) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+3. ❗ Opened issue [#448](https://github.com/cline/kanban/issues/448) in [cline/kanban](https://github.com/cline/kanban)
+4. ❗ Opened issue [#104](https://github.com/fynnfluegge/agtx/issues/104) in [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
+5. 🗣 Commented on [#3547](https://github.com/manaflow-ai/cmux/issues/3547#issuecomment-4380715233) in [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
