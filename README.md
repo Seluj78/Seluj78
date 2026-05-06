@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56676](https://github.com/anthropics/claude-code/issues/56676) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🗣 Commented on [#448](https://github.com/cline/kanban/issues/448#issuecomment-4387551797) in [cline/kanban](https://github.com/cline/kanban)
-3. 🗣 Commented on [#161](https://github.com/raine/workmux/issues/161#issuecomment-4387102287) in [raine/workmux](https://github.com/raine/workmux)
-4. ❗ Opened issue [#161](https://github.com/raine/workmux/issues/161) in [raine/workmux](https://github.com/raine/workmux)
-5. ❗ Opened issue [#917](https://github.com/njbrake/agent-of-empires/issues/917) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+1. ❗ Opened issue [#930](https://github.com/njbrake/agent-of-empires/issues/930) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+2. ❗ Opened issue [#929](https://github.com/njbrake/agent-of-empires/issues/929) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+3. ❗ Opened issue [#928](https://github.com/njbrake/agent-of-empires/issues/928) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+4. ❗ Opened issue [#927](https://github.com/njbrake/agent-of-empires/issues/927) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+5. 🗣 Commented on [#343](https://github.com/njbrake/agent-of-empires/issues/343#issuecomment-4390948900) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
