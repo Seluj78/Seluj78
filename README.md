@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1007](https://github.com/njbrake/agent-of-empires/issues/1007) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-2. ❗ Opened issue [#1006](https://github.com/njbrake/agent-of-empires/issues/1006) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-3. 🗣 Commented on [#626](https://github.com/njbrake/agent-of-empires/pull/626#issuecomment-4413459648) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-4. 🗣 Commented on [#626](https://github.com/njbrake/agent-of-empires/pull/626#issuecomment-4413444575) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-5. ❗ Opened issue [#1005](https://github.com/njbrake/agent-of-empires/issues/1005) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+1. 💪 Opened PR [#1008](https://github.com/njbrake/agent-of-empires/pull/1008) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+2. ❗ Opened issue [#1007](https://github.com/njbrake/agent-of-empires/issues/1007) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+3. ❗ Opened issue [#1006](https://github.com/njbrake/agent-of-empires/issues/1006) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+4. 🗣 Commented on [#626](https://github.com/njbrake/agent-of-empires/pull/626#issuecomment-4413459648) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+5. 🗣 Commented on [#626](https://github.com/njbrake/agent-of-empires/pull/626#issuecomment-4413444575) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
