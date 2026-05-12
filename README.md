@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1063](https://github.com/njbrake/agent-of-empires/issues/1063) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-2. 🗣 Commented on [#641](https://github.com/agentclientprotocol/claude-agent-acp/issues/641#issuecomment-4430715128) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
-3. ❗ Opened issue [#1062](https://github.com/njbrake/agent-of-empires/issues/1062) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-4. ❗ Opened issue [#1061](https://github.com/njbrake/agent-of-empires/issues/1061) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-5. ❗ Opened issue [#1060](https://github.com/njbrake/agent-of-empires/issues/1060) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+1. 💪 Opened PR [#1067](https://github.com/njbrake/agent-of-empires/pull/1067) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
+2. 🗣 Commented on [#2](https://github.com/Seluj78/agent-of-empires/pull/2#issuecomment-4431314085) in [Seluj78/agent-of-empires](https://github.com/Seluj78/agent-of-empires)
+3. ❌ Closed PR [#2](https://github.com/Seluj78/agent-of-empires/pull/2) in [Seluj78/agent-of-empires](https://github.com/Seluj78/agent-of-empires)
+4. 💪 Opened PR [#2](https://github.com/Seluj78/agent-of-empires/pull/2) in [Seluj78/agent-of-empires](https://github.com/Seluj78/agent-of-empires)
+5. 🗣 Commented on [#1031](https://github.com/njbrake/agent-of-empires/issues/1031#issuecomment-4431170700) in [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
