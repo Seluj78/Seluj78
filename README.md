@@ -5,10 +5,10 @@
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge)](https://stackshare.io/seluj78/my-stack)
 [![wakatime](https://wakatime.com/badge/user/88919298-f5ab-4657-8612-f894056689c0.svg?style=for-the-badge)](https://wakatime.com/@88919298-f5ab-4657-8612-f894056689c0)
 
-## I'm a Developper, DJ and Scout Leader
+## I'm a passionate software engineer
 
 - 🔭 I’m currently working as the Lead Python Backend developper for [Getvocal.ai]
-- 🌱 I’m currently looking for more open source projects to contribute to/create more packages/projects for people to use!
+- 🌱 I’m also helping maintain [Agent of Empires](https://github.com/agent-of-empires)
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.seluj78.vercel.app/api/spotify" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/user/21l72khltbnqrea4ho4uyddbi)
