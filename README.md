@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1616](https://github.com/agent-of-empires/agent-of-empires/pull/1616#issuecomment-4580234388) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#1612](https://github.com/agent-of-empires/agent-of-empires/pull/1612) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 💪 Opened PR [#1617](https://github.com/agent-of-empires/agent-of-empires/pull/1617) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 💪 Opened PR [#1616](https://github.com/agent-of-empires/agent-of-empires/pull/1616) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#1615](https://github.com/agent-of-empires/agent-of-empires/pull/1615) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#1617](https://github.com/agent-of-empires/agent-of-empires/pull/1617) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#1617](https://github.com/agent-of-empires/agent-of-empires/pull/1617#issuecomment-4580475453) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🎉 Merged PR [#1613](https://github.com/agent-of-empires/agent-of-empires/pull/1613) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#1616](https://github.com/agent-of-empires/agent-of-empires/pull/1616#issuecomment-4580435889) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🔒 Closed issue [#1431](https://github.com/agent-of-empires/agent-of-empires/issues/1431) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
