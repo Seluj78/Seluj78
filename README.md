@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1616](https://github.com/agent-of-empires/agent-of-empires/pull/1616#issuecomment-4580564612) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#1617](https://github.com/agent-of-empires/agent-of-empires/pull/1617) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#1617](https://github.com/agent-of-empires/agent-of-empires/pull/1617#issuecomment-4580475453) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🎉 Merged PR [#1613](https://github.com/agent-of-empires/agent-of-empires/pull/1613) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🗣 Commented on [#1616](https://github.com/agent-of-empires/agent-of-empires/pull/1616#issuecomment-4580435889) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#1630](https://github.com/agent-of-empires/agent-of-empires/pull/1630) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🎉 Merged PR [#1628](https://github.com/agent-of-empires/agent-of-empires/pull/1628) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🎉 Merged PR [#1629](https://github.com/agent-of-empires/agent-of-empires/pull/1629) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🎉 Merged PR [#1626](https://github.com/agent-of-empires/agent-of-empires/pull/1626) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#1626](https://github.com/agent-of-empires/agent-of-empires/pull/1626#issuecomment-4580873412) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
