@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Unassigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Labeled issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#1984](https://github.com/agent-of-empires/agent-of-empires/pull/1984) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🎉 Merged PR [#1987](https://github.com/agent-of-empires/agent-of-empires/pull/1987) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🎉 Merged PR [#1988](https://github.com/agent-of-empires/agent-of-empires/pull/1988) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 4. ℹ️ Assigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🗣 Commented on [#1989](https://github.com/agent-of-empires/agent-of-empires/issues/1989#issuecomment-4630372299) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Unassigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
