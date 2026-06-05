@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1989](https://github.com/agent-of-empires/agent-of-empires/issues/1989#issuecomment-4630372299) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Assigned issue [#1989](https://github.com/agent-of-empires/agent-of-empires/issues/1989) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#1989](https://github.com/agent-of-empires/agent-of-empires/issues/1989#issuecomment-4630056342) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#1969](https://github.com/agent-of-empires/agent-of-empires/pull/1969#issuecomment-4628498395) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🎉 Merged PR [#1983](https://github.com/agent-of-empires/agent-of-empires/pull/1983) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ℹ️ Assigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Unassigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Assigned issue [#1991](https://github.com/agent-of-empires/agent-of-empires/issues/1991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#1989](https://github.com/agent-of-empires/agent-of-empires/issues/1989#issuecomment-4630372299) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
