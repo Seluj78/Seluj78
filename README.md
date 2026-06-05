@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#1719](https://github.com/agent-of-empires/agent-of-empires/issues/1719) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Unlabeled issue [#1809](https://github.com/agent-of-empires/agent-of-empires/issues/1809) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Unlabeled issue [#1810](https://github.com/agent-of-empires/agent-of-empires/issues/1810) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Unlabeled issue [#1901](https://github.com/agent-of-empires/agent-of-empires/issues/1901) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Unlabeled issue [#1904](https://github.com/agent-of-empires/agent-of-empires/issues/1904) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#1997](https://github.com/agent-of-empires/agent-of-empires/pull/1997) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Assigned issue [#1996](https://github.com/agent-of-empires/agent-of-empires/issues/1996) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#1996](https://github.com/agent-of-empires/agent-of-empires/issues/1996) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Labeled issue [#1996](https://github.com/agent-of-empires/agent-of-empires/issues/1996) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Labeled issue [#1996](https://github.com/agent-of-empires/agent-of-empires/issues/1996) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
