@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/agent-of-empires/agent-of-empires/issues/268#issuecomment-4641908580) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#1997](https://github.com/agent-of-empires/agent-of-empires/pull/1997) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🎉 Merged PR [#2001](https://github.com/agent-of-empires/agent-of-empires/pull/2001) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 💪 Opened PR [#2008](https://github.com/agent-of-empires/agent-of-empires/pull/2008) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🎉 Merged PR [#2000](https://github.com/agent-of-empires/agent-of-empires/pull/2000) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#2008](https://github.com/agent-of-empires/agent-of-empires/pull/2008) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#2024](https://github.com/agent-of-empires/agent-of-empires/pull/2024#issuecomment-4649269400) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#2023](https://github.com/agent-of-empires/agent-of-empires/issues/2023#issuecomment-4649223579) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#268](https://github.com/agent-of-empires/agent-of-empires/issues/268#issuecomment-4641908580) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🎉 Merged PR [#1997](https://github.com/agent-of-empires/agent-of-empires/pull/1997) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
