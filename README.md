@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2170](https://github.com/agent-of-empires/agent-of-empires/issues/2170) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ❗ Opened issue [#2170](https://github.com/agent-of-empires/agent-of-empires/issues/2170) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Labeled issue [#2170](https://github.com/agent-of-empires/agent-of-empires/issues/2170) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Labeled issue [#2170](https://github.com/agent-of-empires/agent-of-empires/issues/2170) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#2167](https://github.com/agent-of-empires/agent-of-empires/pull/2167) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#2172](https://github.com/agent-of-empires/agent-of-empires/issues/2172#issuecomment-4710487677) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#2090](https://github.com/agent-of-empires/agent-of-empires/pull/2090#issuecomment-4710468386) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#2090](https://github.com/agent-of-empires/agent-of-empires/pull/2090#issuecomment-4710432879) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#2090](https://github.com/agent-of-empires/agent-of-empires/pull/2090#issuecomment-4710218730) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🎉 Merged PR [#2127](https://github.com/agent-of-empires/agent-of-empires/pull/2127) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
