@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2360](https://github.com/agent-of-empires/agent-of-empires/issues/2360) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🔒 Closed issue [#2277](https://github.com/agent-of-empires/agent-of-empires/issues/2277) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#2335](https://github.com/agent-of-empires/agent-of-empires/pull/2335#issuecomment-4771404195) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Unassigned issue [#2245](https://github.com/agent-of-empires/agent-of-empires/issues/2245) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Unlabeled issue [#1908](https://github.com/agent-of-empires/agent-of-empires/issues/1908) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ℹ️ Labeled issue [#2367](https://github.com/agent-of-empires/agent-of-empires/issues/2367) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#2364](https://github.com/agent-of-empires/agent-of-empires/issues/2364) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#2364](https://github.com/agent-of-empires/agent-of-empires/issues/2364) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Assigned issue [#2363](https://github.com/agent-of-empires/agent-of-empires/issues/2363) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Labeled issue [#2363](https://github.com/agent-of-empires/agent-of-empires/issues/2363) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
