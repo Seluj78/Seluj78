@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2499](https://github.com/agent-of-empires/agent-of-empires/pull/2499) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🔒 Closed issue [#2487](https://github.com/agent-of-empires/agent-of-empires/issues/2487) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 💪 Opened PR [#2503](https://github.com/agent-of-empires/agent-of-empires/pull/2503) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 💪 Opened PR [#2502](https://github.com/agent-of-empires/agent-of-empires/pull/2502) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#2501](https://github.com/agent-of-empires/agent-of-empires/pull/2501) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#2505](https://github.com/agent-of-empires/agent-of-empires/pull/2505) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#2501](https://github.com/agent-of-empires/agent-of-empires/pull/2501#issuecomment-4823226416) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Assigned issue [#2504](https://github.com/agent-of-empires/agent-of-empires/issues/2504) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 💪 Opened PR [#42](https://github.com/agent-of-empires/plugin-github/pull/42) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
+5. ℹ️ Labeled issue [#41](https://github.com/agent-of-empires/plugin-github/issues/41) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
