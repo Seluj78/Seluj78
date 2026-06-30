@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1760](https://github.com/agent-of-empires/agent-of-empires/issues/1760) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#2567](https://github.com/agent-of-empires/agent-of-empires/pull/2567#issuecomment-4841409836) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#825](https://github.com/agentclientprotocol/claude-agent-acp/issues/825#issuecomment-4841179025) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
-4. ❗ Opened issue [#825](https://github.com/agentclientprotocol/claude-agent-acp/issues/825) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
-5. 🎉 Merged PR [#2565](https://github.com/agent-of-empires/agent-of-empires/pull/2565) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#2567](https://github.com/agent-of-empires/agent-of-empires/pull/2567#issuecomment-4845250033) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🔒 Closed issue [#1760](https://github.com/agent-of-empires/agent-of-empires/issues/1760) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#2567](https://github.com/agent-of-empires/agent-of-empires/pull/2567#issuecomment-4841409836) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#825](https://github.com/agentclientprotocol/claude-agent-acp/issues/825#issuecomment-4841179025) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
+5. ❗ Opened issue [#825](https://github.com/agentclientprotocol/claude-agent-acp/issues/825) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
