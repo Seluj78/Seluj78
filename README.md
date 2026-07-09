@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1805](https://github.com/agent-of-empires/agent-of-empires/issues/1805) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#2740](https://github.com/agent-of-empires/agent-of-empires/pull/2740) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🔒 Closed issue [#2463](https://github.com/agent-of-empires/agent-of-empires/issues/2463) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🎉 Merged PR [#2713](https://github.com/agent-of-empires/agent-of-empires/pull/2713) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#1368](https://github.com/agent-of-empires/agent-of-empires/issues/1368) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#2748](https://github.com/agent-of-empires/agent-of-empires/issues/2748#issuecomment-4922322740) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#1002](https://github.com/agent-of-empires/agent-of-empires/issues/1002#issuecomment-4922240334) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#2306](https://github.com/agent-of-empires/agent-of-empires/issues/2306) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🔒 Closed issue [#2603](https://github.com/agent-of-empires/agent-of-empires/issues/2603) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#2748](https://github.com/agent-of-empires/agent-of-empires/issues/2748#issuecomment-4921925644) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
