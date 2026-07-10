@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2745](https://github.com/agent-of-empires/agent-of-empires/issues/2745#issuecomment-4924745720) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#2748](https://github.com/agent-of-empires/agent-of-empires/issues/2748#issuecomment-4922322740) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#1002](https://github.com/agent-of-empires/agent-of-empires/issues/1002#issuecomment-4922240334) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🔒 Closed issue [#2306](https://github.com/agent-of-empires/agent-of-empires/issues/2306) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#2603](https://github.com/agent-of-empires/agent-of-empires/issues/2603) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#2770](https://github.com/agent-of-empires/agent-of-empires/pull/2770) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🔒 Closed issue [#2767](https://github.com/agent-of-empires/agent-of-empires/issues/2767) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🎉 Merged PR [#2774](https://github.com/agent-of-empires/agent-of-empires/pull/2774) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#2773](https://github.com/agent-of-empires/agent-of-empires/pull/2773#issuecomment-4935717920) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 💪 Opened PR [#2774](https://github.com/agent-of-empires/agent-of-empires/pull/2774) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
