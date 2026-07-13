@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2814](https://github.com/agent-of-empires/agent-of-empires/pull/2814) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#873](https://github.com/agentclientprotocol/claude-agent-acp/issues/873#issuecomment-4958409435) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
-3. ❗ Opened issue [#873](https://github.com/agentclientprotocol/claude-agent-acp/issues/873) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
-4. 💪 Opened PR [#2811](https://github.com/agent-of-empires/agent-of-empires/pull/2811) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#2810](https://github.com/agent-of-empires/agent-of-empires/pull/2810) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ℹ️ Assigned issue [#2815](https://github.com/agent-of-empires/agent-of-empires/issues/2815) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#2815](https://github.com/agent-of-empires/agent-of-empires/issues/2815) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#2815](https://github.com/agent-of-empires/agent-of-empires/issues/2815) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#2815](https://github.com/agent-of-empires/agent-of-empires/issues/2815#issuecomment-4962487949) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#2815](https://github.com/agent-of-empires/agent-of-empires/issues/2815#issuecomment-4962355439) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
