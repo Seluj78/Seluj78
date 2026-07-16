@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2891](https://github.com/agent-of-empires/agent-of-empires/pull/2891) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 💪 Opened PR [#2891](https://github.com/agent-of-empires/agent-of-empires/pull/2891) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#2887](https://github.com/agent-of-empires/agent-of-empires/pull/2887#issuecomment-4991994314) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Assigned issue [#2889](https://github.com/agent-of-empires/agent-of-empires/issues/2889) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Labeled issue [#2889](https://github.com/agent-of-empires/agent-of-empires/issues/2889) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ℹ️ Assigned issue [#2898](https://github.com/agent-of-empires/agent-of-empires/issues/2898) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#2898](https://github.com/agent-of-empires/agent-of-empires/issues/2898) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#2898](https://github.com/agent-of-empires/agent-of-empires/issues/2898) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ❗ Opened issue [#2898](https://github.com/agent-of-empires/agent-of-empires/issues/2898) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#2887](https://github.com/agent-of-empires/agent-of-empires/pull/2887#issuecomment-4994059833) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
