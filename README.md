@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2920](https://github.com/agent-of-empires/agent-of-empires/pull/2920#issuecomment-5000773767) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 💪 Opened PR [#2920](https://github.com/agent-of-empires/agent-of-empires/pull/2920) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#2918](https://github.com/agent-of-empires/agent-of-empires/pull/2918#issuecomment-4999668936) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#2918](https://github.com/agent-of-empires/agent-of-empires/pull/2918#issuecomment-4999668180) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#2899](https://github.com/agent-of-empires/agent-of-empires/issues/2899) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#25](https://github.com/agent-of-empires/cityhall/pull/25) in [agent-of-empires/cityhall](https://github.com/agent-of-empires/cityhall)
+2. 💪 Opened PR [#25](https://github.com/agent-of-empires/cityhall/pull/25) in [agent-of-empires/cityhall](https://github.com/agent-of-empires/cityhall)
+3. ℹ️ Assigned issue [#24](https://github.com/agent-of-empires/cityhall/issues/24) in [agent-of-empires/cityhall](https://github.com/agent-of-empires/cityhall)
+4. ℹ️ Assigned issue [#11](https://github.com/agent-of-empires/cityhall/issues/11) in [agent-of-empires/cityhall](https://github.com/agent-of-empires/cityhall)
+5. ℹ️ Labeled issue [#2894](https://github.com/agent-of-empires/agent-of-empires/issues/2894) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
