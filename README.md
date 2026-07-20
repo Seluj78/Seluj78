@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2975](https://github.com/agent-of-empires/agent-of-empires/pull/2975#issuecomment-5022674548) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#2973](https://github.com/agent-of-empires/agent-of-empires/pull/2973) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#3007](https://github.com/agent-of-empires/agent-of-empires/issues/3007#issuecomment-5022424507) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🔒 Closed issue [#3007](https://github.com/agent-of-empires/agent-of-empires/issues/3007) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ❗ Opened issue [#896](https://github.com/agentclientprotocol/claude-agent-acp/issues/896) in [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
+1. 🎉 Merged PR [#2989](https://github.com/agent-of-empires/agent-of-empires/pull/2989) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#2975](https://github.com/agent-of-empires/agent-of-empires/pull/2975#issuecomment-5024965833) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#2975](https://github.com/agent-of-empires/agent-of-empires/pull/2975#issuecomment-5022674548) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🎉 Merged PR [#2973](https://github.com/agent-of-empires/agent-of-empires/pull/2973) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#3007](https://github.com/agent-of-empires/agent-of-empires/issues/3007#issuecomment-5022424507) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
