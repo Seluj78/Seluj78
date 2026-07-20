@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2920](https://github.com/agent-of-empires/agent-of-empires/pull/2920) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004#issuecomment-5020181716) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🔒 Closed issue [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004#issuecomment-5020171618) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🗣 Commented on [#2715](https://github.com/agent-of-empires/agent-of-empires/pull/2715#issuecomment-5019026728) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#317](https://github.com/agentclientprotocol/codex-acp/issues/317#issuecomment-5022251666) in [agentclientprotocol/codex-acp](https://github.com/agentclientprotocol/codex-acp)
+2. 💪 Opened PR [#4](https://github.com/agent-of-empires/plugin-cron/pull/4) in [agent-of-empires/plugin-cron](https://github.com/agent-of-empires/plugin-cron)
+3. ❗ Opened issue [#3](https://github.com/agent-of-empires/plugin-cron/issues/3) in [agent-of-empires/plugin-cron](https://github.com/agent-of-empires/plugin-cron)
+4. ❗ Opened issue [#3008](https://github.com/agent-of-empires/agent-of-empires/issues/3008) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🎉 Merged PR [#2974](https://github.com/agent-of-empires/agent-of-empires/pull/2974) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
