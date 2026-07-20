@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2715](https://github.com/agent-of-empires/agent-of-empires/pull/2715#issuecomment-5019026728) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#2975](https://github.com/agent-of-empires/agent-of-empires/pull/2975#issuecomment-5015139802) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 💪 Opened PR [#2993](https://github.com/agent-of-empires/agent-of-empires/pull/2993) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 💪 Opened PR [#2992](https://github.com/agent-of-empires/agent-of-empires/pull/2992) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#2991](https://github.com/agent-of-empires/agent-of-empires/pull/2991) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#2920](https://github.com/agent-of-empires/agent-of-empires/pull/2920) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004#issuecomment-5020181716) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#3004](https://github.com/agent-of-empires/agent-of-empires/issues/3004#issuecomment-5020171618) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#2715](https://github.com/agent-of-empires/agent-of-empires/pull/2715#issuecomment-5019026728) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
