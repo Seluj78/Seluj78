@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/agent-of-empires/plugin-cron/pull/8) in [agent-of-empires/plugin-cron](https://github.com/agent-of-empires/plugin-cron)
-2. 💪 Opened PR [#8](https://github.com/agent-of-empires/plugin-cron/pull/8) in [agent-of-empires/plugin-cron](https://github.com/agent-of-empires/plugin-cron)
-3. 💪 Opened PR [#3030](https://github.com/agent-of-empires/agent-of-empires/pull/3030) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🎉 Merged PR [#3021](https://github.com/agent-of-empires/agent-of-empires/pull/3021) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Assigned issue [#3028](https://github.com/agent-of-empires/agent-of-empires/issues/3028) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#2993](https://github.com/agent-of-empires/agent-of-empires/pull/2993) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 💪 Opened PR [#7](https://github.com/agent-of-empires/plugin-mcp/pull/7) in [agent-of-empires/plugin-mcp](https://github.com/agent-of-empires/plugin-mcp)
+3. 🎉 Merged PR [#3037](https://github.com/agent-of-empires/agent-of-empires/pull/3037) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 💪 Opened PR [#3037](https://github.com/agent-of-empires/agent-of-empires/pull/3037) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🎉 Merged PR [#9](https://github.com/agent-of-empires/plugin-cron/pull/9) in [agent-of-empires/plugin-cron](https://github.com/agent-of-empires/plugin-cron)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
