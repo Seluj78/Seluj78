@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3090](https://github.com/agent-of-empires/agent-of-empires/pull/3090#issuecomment-5069890116) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 💪 Opened PR [#3092](https://github.com/agent-of-empires/agent-of-empires/pull/3092) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Labeled issue [#3091](https://github.com/agent-of-empires/agent-of-empires/issues/3091) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ❗ Opened issue [#3091](https://github.com/agent-of-empires/agent-of-empires/issues/3091) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#3090](https://github.com/agent-of-empires/agent-of-empires/pull/3090) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ℹ️ Labeled issue [#3094](https://github.com/agent-of-empires/agent-of-empires/issues/3094) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#3028](https://github.com/agent-of-empires/agent-of-empires/issues/3028#issuecomment-5071912854) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#3028](https://github.com/agent-of-empires/agent-of-empires/issues/3028) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Labeled issue [#3028](https://github.com/agent-of-empires/agent-of-empires/issues/3028) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Assigned issue [#3094](https://github.com/agent-of-empires/agent-of-empires/issues/3094) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
