@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#570](https://github.com/StarT-Dev-Team/Star-Technology/issues/570#issuecomment-5088307116) in [StarT-Dev-Team/Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology)
-2. 🗣 Commented on [#541](https://github.com/StarT-Dev-Team/Star-Technology/pull/541#issuecomment-5088188578) in [StarT-Dev-Team/Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology)
-3. 🗣 Commented on [#541](https://github.com/StarT-Dev-Team/Star-Technology/pull/541#issuecomment-5088116734) in [StarT-Dev-Team/Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology)
-4. 🗣 Commented on [#3115](https://github.com/agent-of-empires/agent-of-empires/pull/3115#issuecomment-5084801607) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🗣 Commented on [#3090](https://github.com/agent-of-empires/agent-of-empires/pull/3090#issuecomment-5084712016) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#3134](https://github.com/agent-of-empires/agent-of-empires/pull/3134) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🎉 Merged PR [#3106](https://github.com/agent-of-empires/agent-of-empires/pull/3106) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#3104](https://github.com/agent-of-empires/agent-of-empires/issues/3104) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🎉 Merged PR [#3098](https://github.com/agent-of-empires/agent-of-empires/pull/3098) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🔒 Closed issue [#3087](https://github.com/agent-of-empires/agent-of-empires/issues/3087) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
