@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3174](https://github.com/agent-of-empires/agent-of-empires/pull/3174#issuecomment-5140812799) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#3176](https://github.com/agent-of-empires/agent-of-empires/pull/3176#issuecomment-5140728160) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#3172](https://github.com/agent-of-empires/agent-of-empires/issues/3172#issuecomment-5140528238) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🎉 Merged PR [#3175](https://github.com/agent-of-empires/agent-of-empires/pull/3175) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#3172](https://github.com/agent-of-empires/agent-of-empires/issues/3172) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. ❌ Closed PR [#3178](https://github.com/agent-of-empires/agent-of-empires/pull/3178) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#3178](https://github.com/agent-of-empires/agent-of-empires/pull/3178#issuecomment-5142186967) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#3174](https://github.com/agent-of-empires/agent-of-empires/pull/3174#issuecomment-5140812799) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#3176](https://github.com/agent-of-empires/agent-of-empires/pull/3176#issuecomment-5140728160) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#3172](https://github.com/agent-of-empires/agent-of-empires/issues/3172#issuecomment-5140528238) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
