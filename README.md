@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418#issuecomment-5324693334) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ❗ Opened issue [#6082](https://github.com/assistant-ui/assistant-ui/issues/6082) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-3. ℹ️ Labeled issue [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Assigned issue [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Labeled issue [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#3419](https://github.com/agent-of-empires/agent-of-empires/pull/3419) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418#issuecomment-5324693334) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ❗ Opened issue [#6082](https://github.com/assistant-ui/assistant-ui/issues/6082) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+4. ℹ️ Labeled issue [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Assigned issue [#3418](https://github.com/agent-of-empires/agent-of-empires/issues/3418) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
