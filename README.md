@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#8](https://github.com/agent-of-empires/plugin-kanban/issues/8) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-2. ℹ️ Labeled issue [#1](https://github.com/agent-of-empires/plugin-kanban/issues/1) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-3. ℹ️ Labeled issue [#4459](https://github.com/agent-of-empires/agent-of-empires/issues/4459) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#4474](https://github.com/agent-of-empires/agent-of-empires/pull/4474#issuecomment-6174510828) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🎉 Merged PR [#13](https://github.com/agent-of-empires/plugin-kanban/pull/13) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
+1. ℹ️ Assigned issue [#4460](https://github.com/agent-of-empires/agent-of-empires/issues/4460) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#4473](https://github.com/agent-of-empires/agent-of-empires/pull/4473#issuecomment-6178971642) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#4459](https://github.com/agent-of-empires/agent-of-empires/issues/4459) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🎉 Merged PR [#4478](https://github.com/agent-of-empires/agent-of-empires/pull/4478) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#4408](https://github.com/agent-of-empires/agent-of-empires/pull/4408#issuecomment-6173427125) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
