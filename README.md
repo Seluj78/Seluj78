@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4495](https://github.com/agent-of-empires/agent-of-empires/pull/4495) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 💪 Opened PR [#14](https://github.com/agent-of-empires/plugin-kanban/pull/14) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-3. 🎉 Merged PR [#4473](https://github.com/agent-of-empires/agent-of-empires/pull/4473) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Assigned issue [#11](https://github.com/agent-of-empires/plugin-kanban/issues/11) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-5. ℹ️ Assigned issue [#4460](https://github.com/agent-of-empires/agent-of-empires/issues/4460) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#4515](https://github.com/agent-of-empires/agent-of-empires/pull/4515) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#4517](https://github.com/agent-of-empires/agent-of-empires/issues/4517) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#4517](https://github.com/agent-of-empires/agent-of-empires/issues/4517) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Assigned issue [#4517](https://github.com/agent-of-empires/agent-of-empires/issues/4517) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🎉 Merged PR [#14](https://github.com/agent-of-empires/plugin-kanban/pull/14) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
