@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4535](https://github.com/agent-of-empires/agent-of-empires/issues/4535#issuecomment-6191980685) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#4514](https://github.com/agent-of-empires/agent-of-empires/pull/4514) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Assigned issue [#2](https://github.com/agent-of-empires/plugin-kanban/issues/2) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-4. ℹ️ Assigned issue [#3](https://github.com/agent-of-empires/plugin-kanban/issues/3) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
-5. ℹ️ Assigned issue [#6](https://github.com/agent-of-empires/plugin-kanban/issues/6) in [agent-of-empires/plugin-kanban](https://github.com/agent-of-empires/plugin-kanban)
+1. 🗣 Commented on [#101](https://github.com/agent-of-empires/plugin-github/pull/101#issuecomment-6192362603) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
+2. 🗣 Commented on [#4516](https://github.com/agent-of-empires/agent-of-empires/pull/4516#issuecomment-6191681861) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#4519](https://github.com/agent-of-empires/agent-of-empires/pull/4519#issuecomment-6191674591) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#4513](https://github.com/agent-of-empires/agent-of-empires/pull/4513#issuecomment-6191647404) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#4368](https://github.com/agent-of-empires/agent-of-empires/issues/4368#issuecomment-6192965913) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
