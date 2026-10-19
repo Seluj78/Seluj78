@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4643](https://github.com/agent-of-empires/agent-of-empires/pull/4643#issuecomment-6230967392) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#4630](https://github.com/agent-of-empires/agent-of-empires/pull/4630#issuecomment-6230784733) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#4623](https://github.com/agent-of-empires/agent-of-empires/pull/4623#issuecomment-6230776024) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🔒 Closed issue [#3701](https://github.com/agent-of-empires/agent-of-empires/issues/3701) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🎉 Merged PR [#4640](https://github.com/agent-of-empires/agent-of-empires/pull/4640) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#4691](https://github.com/agent-of-empires/agent-of-empires/pull/4691) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#4690](https://github.com/agent-of-empires/agent-of-empires/issues/4690) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ❗ Opened issue [#4690](https://github.com/agent-of-empires/agent-of-empires/issues/4690) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Assigned issue [#4690](https://github.com/agent-of-empires/agent-of-empires/issues/4690) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 💪 Opened PR [#4689](https://github.com/agent-of-empires/agent-of-empires/pull/4689) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
