@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4776](https://github.com/agent-of-empires/agent-of-empires/pull/4776#issuecomment-6385559522) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#4773](https://github.com/agent-of-empires/agent-of-empires/pull/4773) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🔒 Closed issue [#4541](https://github.com/agent-of-empires/agent-of-empires/issues/4541) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#4892](https://github.com/agent-of-empires/agent-of-empires/pull/4892#issuecomment-6385408674) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🗣 Commented on [#4908](https://github.com/agent-of-empires/agent-of-empires/pull/4908#issuecomment-6385220731) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 💪 Opened PR [#4928](https://github.com/agent-of-empires/agent-of-empires/pull/4928) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 💪 Opened PR [#4927](https://github.com/agent-of-empires/agent-of-empires/pull/4927) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 💪 Opened PR [#4926](https://github.com/agent-of-empires/agent-of-empires/pull/4926) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Assigned issue [#4847](https://github.com/agent-of-empires/agent-of-empires/issues/4847) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Assigned issue [#4898](https://github.com/agent-of-empires/agent-of-empires/issues/4898) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
