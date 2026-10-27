@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4993](https://github.com/agent-of-empires/agent-of-empires/pull/4993#issuecomment-6442926065) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Assigned issue [#4758](https://github.com/agent-of-empires/agent-of-empires/issues/4758) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🎉 Merged PR [#4979](https://github.com/agent-of-empires/agent-of-empires/pull/4979) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Assigned issue [#4837](https://github.com/agent-of-empires/agent-of-empires/issues/4837) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. ℹ️ Assigned issue [#4948](https://github.com/agent-of-empires/agent-of-empires/issues/4948) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#5009](https://github.com/agent-of-empires/agent-of-empires/pull/5009#issuecomment-6451954521) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Unlabeled issue [#5012](https://github.com/agent-of-empires/agent-of-empires/issues/5012) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#5013](https://github.com/agent-of-empires/agent-of-empires/issues/5013) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Unlabeled issue [#5013](https://github.com/agent-of-empires/agent-of-empires/issues/5013) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ℹ️ Assigned issue [#4841](https://github.com/agent-of-empires/agent-of-empires/issues/4841) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
