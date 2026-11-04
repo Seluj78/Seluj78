@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5267](https://github.com/agent-of-empires/agent-of-empires/pull/5267) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🎉 Merged PR [#5265](https://github.com/agent-of-empires/agent-of-empires/pull/5265) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🔒 Closed issue [#5227](https://github.com/agent-of-empires/agent-of-empires/issues/5227) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ❗ Opened issue [#2941](https://github.com/MemPalace/mempalace/issues/2941) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
-5. ❗ Opened issue [#2940](https://github.com/MemPalace/mempalace/issues/2940) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+1. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
+2. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
+3. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
+4. ❗ Opened issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
+5. ℹ️ Labeled issue [#14](https://github.com/agent-of-empires/plugin-claude/issues/14) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
