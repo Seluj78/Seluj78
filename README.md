@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5267](https://github.com/agent-of-empires/agent-of-empires/pull/5267#issuecomment-6625494396) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#5265](https://github.com/agent-of-empires/agent-of-empires/pull/5265#issuecomment-6625360452) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🎉 Merged PR [#5259](https://github.com/agent-of-empires/agent-of-empires/pull/5259) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 💪 Opened PR [#5267](https://github.com/agent-of-empires/agent-of-empires/pull/5267) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#4952](https://github.com/agent-of-empires/agent-of-empires/issues/4952) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#5267](https://github.com/agent-of-empires/agent-of-empires/pull/5267) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🎉 Merged PR [#5265](https://github.com/agent-of-empires/agent-of-empires/pull/5265) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#5227](https://github.com/agent-of-empires/agent-of-empires/issues/5227) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ❗ Opened issue [#2941](https://github.com/MemPalace/mempalace/issues/2941) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+5. ❗ Opened issue [#2940](https://github.com/MemPalace/mempalace/issues/2940) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
