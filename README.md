@@ -40,11 +40,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
-2. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
-3. ℹ️ Labeled issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
-4. ❗ Opened issue [#15](https://github.com/agent-of-empires/plugin-claude/issues/15) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
-5. ℹ️ Labeled issue [#14](https://github.com/agent-of-empires/plugin-claude/issues/14) in [agent-of-empires/plugin-claude](https://github.com/agent-of-empires/plugin-claude)
+1. 🗣 Commented on [#5288](https://github.com/agent-of-empires/agent-of-empires/issues/5288#issuecomment-6657069674) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#5288](https://github.com/agent-of-empires/agent-of-empires/issues/5288) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🔒 Closed issue [#5288](https://github.com/agent-of-empires/agent-of-empires/issues/5288) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🔒 Closed issue [#5287](https://github.com/agent-of-empires/agent-of-empires/issues/5287) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 🗣 Commented on [#5287](https://github.com/agent-of-empires/agent-of-empires/issues/5287#issuecomment-6657068085) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
