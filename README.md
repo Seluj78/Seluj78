@@ -11,8 +11,7 @@
 - 🌱 I’m also helping maintain [Agent of Empires](https://github.com/agent-of-empires)
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.seluj78.vercel.app/api/spotify" alt="Seluj78 Spotify Playing" width="350" />](https://open.spotify.com/user/21l72khltbnqrea4ho4uyddbi)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21l72khltbnqrea4ho4uyddbi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ### Connect with me:
 
 [<img align="left" alt="juleslasne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
