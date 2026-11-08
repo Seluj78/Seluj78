@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5434](https://github.com/agent-of-empires/agent-of-empires/pull/5434#issuecomment-6716731999) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. 🗣 Commented on [#1859](https://github.com/kunobi-ninja/kache/issues/1859#issuecomment-6716655081) in [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
-3. 🔒 Closed issue [#5141](https://github.com/agent-of-empires/agent-of-empires/issues/5141) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🔒 Closed issue [#5281](https://github.com/agent-of-empires/agent-of-empires/issues/5281) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#5261](https://github.com/agent-of-empires/agent-of-empires/issues/5261) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#5480](https://github.com/agent-of-empires/agent-of-empires/pull/5480) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Labeled issue [#5482](https://github.com/agent-of-empires/agent-of-empires/issues/5482) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Labeled issue [#5482](https://github.com/agent-of-empires/agent-of-empires/issues/5482) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ❗ Opened issue [#5482](https://github.com/agent-of-empires/agent-of-empires/issues/5482) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 💪 Opened PR [#5481](https://github.com/agent-of-empires/agent-of-empires/pull/5481) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
