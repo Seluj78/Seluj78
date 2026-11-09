@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5496](https://github.com/agent-of-empires/agent-of-empires/issues/5496) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Labeled issue [#5494](https://github.com/agent-of-empires/agent-of-empires/issues/5494) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ℹ️ Labeled issue [#5494](https://github.com/agent-of-empires/agent-of-empires/issues/5494) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ❗ Opened issue [#5494](https://github.com/agent-of-empires/agent-of-empires/issues/5494) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#5345](https://github.com/agent-of-empires/agent-of-empires/issues/5345) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🔒 Closed issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+2. 🎉 Merged PR [#98](https://github.com/agent-of-empires/castellan/pull/98) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+3. 💪 Opened PR [#98](https://github.com/agent-of-empires/castellan/pull/98) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+4. ℹ️ Labeled issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+5. ❗ Opened issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
