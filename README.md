@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-2. 🎉 Merged PR [#98](https://github.com/agent-of-empires/castellan/pull/98) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-3. 💪 Opened PR [#98](https://github.com/agent-of-empires/castellan/pull/98) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-4. ℹ️ Labeled issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-5. ❗ Opened issue [#97](https://github.com/agent-of-empires/castellan/issues/97) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+1. 🗣 Commented on [#21](https://github.com/agent-of-empires/castellan/issues/21#issuecomment-6751415082) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+2. 🗣 Commented on [#5517](https://github.com/agent-of-empires/agent-of-empires/issues/5517#issuecomment-6748795234) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#5481](https://github.com/agent-of-empires/agent-of-empires/pull/5481#issuecomment-6746211917) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 🗣 Commented on [#100](https://github.com/agent-of-empires/castellan/pull/100#issuecomment-6751733531) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
+5. 🗣 Commented on [#5517](https://github.com/agent-of-empires/agent-of-empires/issues/5517#issuecomment-6746785441) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
