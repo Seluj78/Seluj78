@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/agent-of-empires/castellan/issues/21#issuecomment-6751415082) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-2. 🗣 Commented on [#5517](https://github.com/agent-of-empires/agent-of-empires/issues/5517#issuecomment-6748795234) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. 🗣 Commented on [#5481](https://github.com/agent-of-empires/agent-of-empires/pull/5481#issuecomment-6746211917) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🗣 Commented on [#100](https://github.com/agent-of-empires/castellan/pull/100#issuecomment-6751733531) in [agent-of-empires/castellan](https://github.com/agent-of-empires/castellan)
-5. 🗣 Commented on [#5517](https://github.com/agent-of-empires/agent-of-empires/issues/5517#issuecomment-6746785441) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#5089](https://github.com/agent-of-empires/agent-of-empires/issues/5089#issuecomment-6764509798) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. ℹ️ Unlabeled issue [#5533](https://github.com/agent-of-empires/agent-of-empires/issues/5533) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. ℹ️ Unlabeled issue [#5532](https://github.com/agent-of-empires/agent-of-empires/issues/5532) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. ℹ️ Unlabeled issue [#5531](https://github.com/agent-of-empires/agent-of-empires/issues/5531) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. ❗ Opened issue [#5533](https://github.com/agent-of-empires/agent-of-empires/issues/5533) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
