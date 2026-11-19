@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/agent-of-empires/plugin-github/pull/152) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
-2. 💪 Opened PR [#152](https://github.com/agent-of-empires/plugin-github/pull/152) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
-3. 🗣 Commented on [#5779](https://github.com/agent-of-empires/agent-of-empires/pull/5779#issuecomment-6970683835) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. 🔒 Closed issue [#5748](https://github.com/agent-of-empires/agent-of-empires/issues/5748) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 🔒 Closed issue [#5786](https://github.com/agent-of-empires/agent-of-empires/issues/5786) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🎉 Merged PR [#326423](https://github.com/Homebrew/homebrew-core/pull/326423) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💪 Opened PR [#326423](https://github.com/Homebrew/homebrew-core/pull/326423) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 🎉 Merged PR [#152](https://github.com/agent-of-empires/plugin-github/pull/152) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
+4. 💪 Opened PR [#152](https://github.com/agent-of-empires/plugin-github/pull/152) in [agent-of-empires/plugin-github](https://github.com/agent-of-empires/plugin-github)
+5. 🗣 Commented on [#5779](https://github.com/agent-of-empires/agent-of-empires/pull/5779#issuecomment-6970683835) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
