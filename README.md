@@ -39,11 +39,11 @@
 ### :zap: Recent Github Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5919](https://github.com/agent-of-empires/agent-of-empires/pull/5919) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-2. ℹ️ Labeled issue [#5914](https://github.com/agent-of-empires/agent-of-empires/issues/5914) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-3. ❗ Opened issue [#5914](https://github.com/agent-of-empires/agent-of-empires/issues/5914) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-4. ℹ️ Assigned issue [#5823](https://github.com/agent-of-empires/agent-of-empires/issues/5823) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
-5. 💪 Opened PR [#5912](https://github.com/agent-of-empires/agent-of-empires/pull/5912) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+1. 🗣 Commented on [#5927](https://github.com/agent-of-empires/agent-of-empires/pull/5927#issuecomment-7062226498) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+2. 🗣 Commented on [#5594](https://github.com/agent-of-empires/agent-of-empires/pull/5594#issuecomment-7062183324) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+3. 🗣 Commented on [#5912](https://github.com/agent-of-empires/agent-of-empires/pull/5912#issuecomment-7061908266) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+4. 💪 Opened PR [#5929](https://github.com/agent-of-empires/agent-of-empires/pull/5929) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+5. 💪 Opened PR [#5928](https://github.com/agent-of-empires/agent-of-empires/pull/5928) in [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
